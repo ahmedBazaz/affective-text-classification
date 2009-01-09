@@ -1,0 +1,4752 @@
+From: <¥Ñ Windows Internet Explorer 7 Àx¦s>
+Subject: term_project [NLP]
+Date: Mon, 15 Dec 2008 17:26:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01C95EDA.4FFCF870"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=term_project
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML lang=3Den dir=3Dltr xml:lang=3D"en"=20
+xmlns=3D"http://www.w3.org/1999/xhtml"><HEAD><TITLE>term_project =
+[NLP]</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<META content=3D"MSHTML 6.00.6000.16762" name=3DGENERATOR><LINK =
+href=3D"/courses/NLP/"=20
+rel=3Dstart><LINK title=3D""=20
+href=3D"/courses/NLP/doku.php?id=3Dterm_project&amp;do=3Dindex" =
+rel=3Dcontents><LINK=20
+title=3D"Recent Changes" href=3D"/courses/NLP/feed.php" =
+type=3Dapplication/rss+xml=20
+rel=3Dalternate><LINK title=3D"Current Namespace"=20
+href=3D"/courses/NLP/feed.php?mode=3Dlist&amp;ns=3D" =
+type=3Dapplication/rss+xml=20
+rel=3Dalternate><LINK title=3D"Plain HTML"=20
+href=3D"/courses/NLP/doku.php?id=3Dterm_project&amp;do=3Dexport_xhtml" =
+type=3Dtext/html=20
+rel=3Dalternate><LINK title=3D"Wiki Markup"=20
+href=3D"/courses/NLP/doku.php?id=3Dterm_project&amp;do=3Dexport_raw" =
+type=3Dtext/plain=20
+rel=3Dalternate>
+<META content=3D2008-12-04T10:23:16+0800 name=3Ddate>
+<META content=3Dindex,follow name=3Drobots><LINK media=3Dscreen=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/css.php" =
+type=3Dtext/css=20
+rel=3Dstylesheet><LINK media=3Dprint=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/css.php?print=3D1"=
+=20
+type=3Dtext/css rel=3Dstylesheet>
+<SCRIPT=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/js.php?edit=3D0&amp=
+;write=3D0"=20
+type=3Dtext/javascript charset=3Dutf-8></SCRIPT>
+<LINK href=3D"/courses/NLP/lib/tpl/default/images/favicon.ico"=20
+rel=3D"shortcut icon"></HEAD>
+<BODY>
+<DIV class=3Ddokuwiki>
+<DIV class=3Dstylehead>
+<DIV class=3Dheader>
+<DIV class=3Dpagename>[[<A=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+&amp;do=3Dbacklink">term_project</A>]]=20
+</DIV>
+<DIV class=3Dlogo><A title=3D[ALT+H] accessKey=3Dh=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3D" =
+name=3Dtop>NLP</A>=20
+</DIV></DIV>
+<DIV class=3Dbar id=3Dbar__top>
+<DIV class=3Dbar-left id=3Dbar__topleft>
+<FORM class=3Dbutton action=3D/courses/NLP/doku.php method=3Dpost>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Dedit name=3Ddo><INPUT =
+type=3Dhidden=20
+name=3Drev><INPUT type=3Dhidden value=3Dterm_project name=3Did><INPUT =
+class=3Dbutton title=3DALT+V accessKey=3Dv type=3Dsubmit value=3D"Show =
+pagesource"></DIV></FORM>
+<FORM class=3Dbutton action=3D/courses/NLP/doku.php method=3Dget>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Drevisions name=3Ddo><INPUT =
+type=3Dhidden=20
+value=3Dterm_project name=3Did><INPUT class=3Dbutton title=3DALT+O =
+accessKey=3Do type=3Dsubmit value=3D"Old revisions"></DIV></FORM></DIV>
+<DIV class=3Dbar-right id=3Dbar__topright>
+<FORM class=3Dbutton action=3D/courses/NLP/doku.php method=3Dget>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Drecent name=3Ddo><INPUT =
+type=3Dhidden=20
+name=3Did><INPUT class=3Dbutton title=3DALT+R accessKey=3Dr =
+type=3Dsubmit value=3D"Recent changes"></DIV></FORM>
+<FORM class=3Dsearch id=3Ddw__search accept-charset=3Dutf-8=20
+action=3D/courses/NLP/doku.php?id=3D>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Dsearch name=3Ddo><INPUT =
+class=3Dedit=20
+id=3Dqsearch__in accessKey=3Df name=3Did><INPUT class=3Dbutton =
+type=3Dsubmit value=3DSearch>
+<DIV class=3D"ajax_qsearch JSpopup" =
+id=3Dqsearch__out></DIV></DIV></FORM>&nbsp;=20
+</DIV></DIV>
+<DIV class=3Dbreadcrumbs>Trace: <SPAN class=3Dbcsep>=C2=BB</SPAN> <A =
+class=3Dbreadcrumbs=20
+title=3Dproject_groups=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dproject_grou=
+ps">project_groups</A>=20
+<SPAN class=3Dbcsep>=C2=BB</SPAN> <A class=3Dbreadcrumbs title=3DNLP=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3DNLP">NLP</A>=
+ <SPAN=20
+class=3Dbcsep>=C2=BB</SPAN> <SPAN class=3Dcurid><A class=3Dbreadcrumbs =
+title=3Dterm_project=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+">term_project</A></SPAN>=20
+</DIV></DIV>
+<DIV class=3Dpage><!-- wikipage start -->
+<DIV class=3Dtoc>
+<DIV class=3D"tocheader toctoggle" id=3Dtoc__header>Table of =
+Contents</DIV>
+<DIV id=3Dtoc__inside>
+<UL class=3Dtoc>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+  =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#nlp_term_projectis_my_writing_making_you_mad_good">NLP=20
+  Term Project: Is my writing making you mad? Good!</A></SPAN></DIV>
+  <UL class=3Dtoc>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#important_dates">Important=20
+    Dates</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#project_overview">Project=20
+    Overview</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#project_description">Project=20
+    Description</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#corpus_format">Corpus=20
+    Format</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#testing_result_output_format">Testing=20
+    Result Output Format</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#files_to_download">Files=20
+    to Download</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#performance_evaluation">Performance=20
+    Evaluation</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#project_group">Project=20
+    Group</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#project_report">Project=20
+    Report</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#hand-in_list">Hand-in=20
+    List</A></SPAN></DIV>
+    <LI class=3Dlevel2>
+    <DIV class=3Dli><SPAN class=3Dli><A class=3Dtoc=20
+    =
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#marks_for_your_project">Marks=20
+    for Your Project</A></SPAN></DIV></LI></UL></LI></UL></DIV></DIV>
+<H1><A id=3Dnlp_term_projectis_my_writing_making_you_mad_good=20
+name=3Dnlp_term_projectis_my_writing_making_you_mad_good>NLP Term =
+Project: Is my=20
+writing making you mad? Good!</A></H1>
+<DIV class=3Dlevel1>
+<P>If you have any question about the project, don=E2=80=99t hesitate to =
+see or email=20
+the TA. </P></DIV>
+<H2><A id=3Dimportant_dates name=3Dimportant_dates>Important =
+Dates</A></H2>
+<DIV class=3Dlevel2>
+<UL>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><STRONG>12/11/2008</STRONG> - Email the TA=20
+  (ntucsienlp@gmail.com) your group member list.</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><STRONG>01/08/2009</STRONG> - Project due. Email your =
+hand-in to=20
+  the TA.</DIV></LI></UL></DIV>
+<H2><A id=3Dproject_overview name=3Dproject_overview>Project =
+Overview</A></H2>
+<DIV class=3Dlevel2>
+<P>You will be given a collection of English news headlines. Your job is =
+to=20
+label each headline with emotions, which are anger, disgust, fear, joy, =
+sadness,=20
+and surprise. Each news headline may be associated with 0 or more =
+emotions.=20
+</P></DIV>
+<H2><A id=3Dproject_description name=3Dproject_description>Project=20
+Description</A></H2>
+<DIV class=3Dlevel2>
+<P>Have you ever wondered how writers manipulate readers=E2=80=99 =
+feelings through=20
+writings? Now is your chance to find out. News reporters often create=20
+exaggerated news headlines to intentionally provoke intense feelings in =
+readers.=20
+In this project, we will give a list of news headlines and your job is =
+to figure=20
+out how these headlines make readers feel. You will be labeling each =
+news=20
+headline with <STRONG>0 or more</STRONG> of the following emotions: =
+anger,=20
+disgust, fear, joy, sadness, and surprise. </P>
+<P>This project is designed to be unsupervised, meaning that you will =
+not be=20
+provided with a training corpus. But we will give you a small labeled =
+dataset to=20
+play with. You can use any method and any existing tool you want, except =
+
+human-labeling. There is also no restriction on the type of programming =
+language=20
+you may use. </P>
+<P>To simulate a contest setting, we will not give you the gold standard =
+(i.e.,=20
+the answer key) for the test corpus. Your TA will evaluate your system =
+based on=20
+the system outputs you submit. <STRONG>It is paramount that your system =
+output=20
+file is in the correct file format!</STRONG> The TA will not debug your =
+system=20
+output file for you.<BR></P></DIV>
+<H2><A id=3Dcorpus_format name=3Dcorpus_format>Corpus Format</A></H2>
+<DIV class=3Dlevel2>
+<P>The corpus is an xml file containing a list of news headlines. Some =
+sample=20
+lines are </P>
+<P><EM>&lt;instance id=3D=E2=80=9D1=E2=80=9D&gt;Mortar assault leaves at =
+least 18=20
+dead&lt;/instance&gt;</EM> <BR><EM>&lt;instance =
+id=3D=E2=80=9D2=E2=80=9D&gt;Goal delight for=20
+Sheva&lt;/instance&gt;</EM> <BR></P>
+<P>What you need to pay attention to are the <EM>id</EM> and the =
+headline. In=20
+the above example, the gold standard says that headline 1 causes fear =
+and=20
+sadness, and headline 2 causes joy. </P></DIV>
+<H2><A id=3Dtesting_result_output_format =
+name=3Dtesting_result_output_format>Testing=20
+Result Output Format</A></H2>
+<DIV class=3Dlevel2>
+<P>Your system output is a text file and each line of the file must =
+follow the=20
+following format: </P>
+<P><EM>id emotion1 emotion2 ... emotionN</EM> <BR></P>
+<P>where <EM>id</EM> is the news headline <EM>id</EM>, obtained from the =
+xml=20
+<EM>id</EM> element. And <EM>emotion1 emotion2 ... emotionN</EM> is a =
+list of=20
+emotions separated by white spaces. If you decide that a particular news =
+
+headline provokes no emotion, then simply leave the emotion list blank, =
+but you=20
+still have to output the <EM>id</EM>. Some sample lines are </P>
+<P><EM>1 fear sadness</EM> <BR><EM>2 joy</EM> <BR><EM>3 fear joy =
+surprise</EM>=20
+<BR><EM>4 anger fear sadness</EM> <BR><EM>5</EM> <BR><EM>6</EM> =
+<BR><EM>7=20
+joy</EM> <BR></P>
+<P>Notice that headlines 5 and 6 have no emotion. If you need more =
+examples, you=20
+can take a look at the <EM>sample.output</EM> file we provide. =
+<BR></P></DIV>
+<H2><A id=3Dfiles_to_download name=3Dfiles_to_download>Files to =
+Download</A></H2>
+<DIV class=3Dlevel2>
+<P>All the files necessary to do this project are contained in this <A=20
+class=3D"media mediafile mf_zip" title=3Dnlp2008project.zip=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/fetch.php?id=3Dter=
+m_project&amp;cache=3Dcache&amp;media=3Dnlp2008project.zip">zip=20
+file</A>. In the zip file, you will find the following files: </P>
+<UL>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><EM>trial/affectivetext_trial.xml</EM> : this is a =
+list of=20
+  sample headlines for you to play with. You do not submit your results =
+for this=20
+  file.</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><EM>trial/affectivetext_trial.emotions.gold.key</EM> : =
+this is=20
+  the gold standard file for the trial headlines.</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><EM>trial/sample.output</EM> : a sample output file of =
+an=20
+  imaginary system for the trial headlines.</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><EM>test/affectivetext_test.xml</EM> : this is the =
+file you need=20
+  to label.</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><EM>evaluate.pl</EM> : this perl program is used to =
+evaluate=20
+  your system performance. It requires both the gold standard file and =
+the=20
+  system output file. Obviously, you cannot evaluate your system =
+performance on=20
+  the test corpus, because you don=E2=80=99t have the gold standard for =
+the test corpus.=20
+  However, you can evaluate your system performance on the trial corpus. =
+In=20
+  fact, it is a good idea to use <EM>evaluate.pl</EM> to evaluate your =
+system=20
+  performance on the trial corpus to make sure that your system output =
+file is=20
+  in the correct format.</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli><EM>WordNetAffectEmotionLists</EM> : this directory =
+contains=20
+  lists of words associated with various emotions to help you develop =
+your=20
+  system.</DIV></LI></UL></DIV>
+<H2><A id=3Dperformance_evaluation =
+name=3Dperformance_evaluation>Performance=20
+Evaluation</A></H2>
+<DIV class=3Dlevel2>
+<P><EM>evaluate.pl</EM> shows your system=E2=80=99s performance in terms =
+of accuracy,=20
+precision, recall, and f-score. A sample performance output is </P>
+<P><EM>ta@linux:~/nlpproject$ perl evaluate.pl=20
+trial/affectivetext_trial.emotions.gold.key trial/sample.output</EM>=20
+<BR><EM>anger, ACC: 0.9960, PREC: 1.0000, REC: 0.9500, F: 0.9744</EM>=20
+<BR><EM>fear, ACC: 0.9840, PREC: 0.9667, REC: 0.9062, F: 0.9355</EM>=20
+<BR><EM>sadness, ACC: 0.9960, PREC: 1.0000, REC: 0.9756, F: 0.9877</EM>=20
+<BR><EM>surprise, ACC: 0.9960, PREC: 1.0000, REC: 0.8750, F: 0.9333</EM> =
+
+<BR><EM>disgust, ACC: 0.9640, PREC: 0.0000, REC: 0.0000, F: 0.0000</EM>=20
+<BR><EM>joy, ACC: 0.9880, PREC: 0.9444, REC: 0.9714, F: 0.9577</EM>=20
+<BR><EM>Average, ACC: 0.9873, PREC: 0.8185, REC: 0.7797, F: 0.7981</EM> =
+<BR></P>
+<P>The most important metric is the average f-score (i.e., the F value =
+at the=20
+last line). <BR></P></DIV>
+<H2><A id=3Dproject_group name=3Dproject_group>Project Group</A></H2>
+<DIV class=3Dlevel2>
+<P>You will form groups of 1 to 4 people and email your group member =
+list to the=20
+TA (ntucsienlp@gmail.com). The list must contain the name, student =
+number, and=20
+email address of each group member. Look at the Important Dates section =
+for=20
+deadlines. </P></DIV>
+<H2><A id=3Dproject_report name=3Dproject_report>Project Report</A></H2>
+<DIV class=3Dlevel2>
+<P>You will have to hand in a report for this project. The report must =
+contain=20
+at least the following: </P>
+<OL>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli>Your group member names and student numbers</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli>A detailed description of your system</DIV></LI></OL>
+<P>You can add anything else you want to the report as you see fit. =
+</P></DIV>
+<H2><A id=3Dhand-in_list name=3Dhand-in_list>Hand-in List</A></H2>
+<DIV class=3Dlevel2>
+<OL>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli>Your system output file(s). You can submit up to 3 =
+system output=20
+  files. The output file=E2=80=99s filename must be in the following =
+format:=20
+  <EM>systemoutputN</EM>, where <EM>N</EM> is your <EM>N</EM>=E2=80=98th =
+system output=20
+  file. For example, if you submit two output files, then their names =
+will be=20
+  <EM>systemoutput1</EM> and <EM>systemoutput2</EM>. Make sure your =
+system=20
+  output files are in the correct file format.</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli>Your system program source codes. Yes, that means =
+every single=20
+  piece of code, but do not include any external tool you use, such as=20
+  WordNet.</DIV>
+  <LI class=3Dlevel1>
+  <DIV class=3Dli>Your report in the pdf or doc format.</DIV></LI></OL>
+<P>Compress all the above files into a zip file with the filename=20
+<EM>nlpprojectgroupG.zip</EM> where <EM>G</EM> is your group=E2=80=99s =
+group number. You=20
+will know about your group number in the Project Groups section of the =
+course=20
+website. </P></DIV>
+<H2><A id=3Dmarks_for_your_project name=3Dmarks_for_your_project>Marks =
+for Your=20
+Project</A></H2>
+<DIV class=3Dlevel2>
+<P>Your project grade will be based on your system performance (50%) and =
+report=20
+(50%). </P>
+<P>Your system performance will be the highest average f-score of all =
+the system=20
+output files you submit. The project task is not easy, so don=E2=80=99t =
+get discouraged=20
+if your system does not achieve a very high performance. Your system =
+performance=20
+marks will be decided based on how well your system performs relative to =
+the=20
+other groups. </P>
+<P>Your report mark will be based on the quality of your report and the=20
+originality of your idea. </P>
+<P>Good Luck. </P></DIV><!-- wikipage stop --></DIV>
+<DIV class=3Dclearer></DIV>
+<DIV class=3Dstylefoot>
+<DIV class=3Dmeta>
+<DIV class=3Duser>Logged in as: nlp </DIV>
+<DIV class=3Ddoc>term_project.txt =C2=B7 Last modified: 2008/12/04 10:23 =
+by nlpadmin=20
+</DIV></DIV>
+<DIV class=3Dbar id=3Dbar__bottom>
+<DIV class=3Dbar-left id=3Dbar__bottomleft>
+<FORM class=3Dbutton action=3D/courses/NLP/doku.php method=3Dpost>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Dedit name=3Ddo><INPUT =
+type=3Dhidden=20
+name=3Drev><INPUT type=3Dhidden value=3Dterm_project name=3Did><INPUT =
+class=3Dbutton title=3DALT+V accessKey=3Dv type=3Dsubmit value=3D"Show =
+pagesource"></DIV></FORM>
+<FORM class=3Dbutton action=3D/courses/NLP/doku.php method=3Dget>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Drevisions name=3Ddo><INPUT =
+type=3Dhidden=20
+value=3Dterm_project name=3Did><INPUT class=3Dbutton title=3DALT+O =
+accessKey=3Do type=3Dsubmit value=3D"Old revisions"></DIV></FORM></DIV>
+<DIV class=3Dbar-right id=3Dbar__bottomright>
+<FORM class=3Dbutton action=3D/courses/NLP/doku.php method=3Dget>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Dprofile name=3Ddo><INPUT =
+type=3Dhidden=20
+value=3Dterm_project name=3Did><INPUT class=3Dbutton type=3Dsubmit =
+value=3D"Update Profile"></DIV></FORM>
+<FORM class=3Dbutton action=3D/courses/NLP/doku.php method=3Dget>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Dlogout name=3Ddo><INPUT =
+type=3Dhidden=20
+value=3Dterm_project=20
+name=3Did><INPUT class=3Dbutton type=3Dsubmit =
+value=3DLogout></DIV></FORM>
+<FORM class=3Dbutton action=3D/courses/NLP/doku.php method=3Dget>
+<DIV class=3Dno><INPUT type=3Dhidden value=3Dindex name=3Ddo><INPUT =
+type=3Dhidden=20
+value=3Dterm_project name=3Did><INPUT class=3Dbutton title=3DALT+X =
+accessKey=3Dx type=3Dsubmit value=3DIndex></DIV></FORM><A=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/doku.php?id=3Dterm_project=
+#top"><INPUT class=3Dbutton onclick=3D"window.scrollTo(0, 0)" =
+type=3Dbutton value=3D"Back to top"></A>&nbsp;=20
+</DIV></DIV></DIV></DIV>
+<DIV class=3Dfooterinc><A title=3D"Recent changes RSS feed"=20
+href=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/feed.php"><IMG =
+height=3D15=20
+alt=3D"Recent changes RSS feed"=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/butt=
+on-rss.png"=20
+width=3D80></A> <A title=3D"Creative Commons License"=20
+href=3D"http://creativecommons.org/licenses/by-nc-sa/2.0/" =
+rel=3Dlicense><IMG=20
+height=3D15 alt=3D"Creative Commons License"=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/butt=
+on-cc.gif"=20
+width=3D80></A> <A title=3DDonate=20
+href=3D"https://www.paypal.com/xclick/business=3Dandi%40splitbrain.org&am=
+p;item_name=3DDokuWiki+Donation&amp;no_shipping=3D1&amp;no_note=3D1&amp;t=
+ax=3D0&amp;currency_code=3DEUR&amp;lc=3DUS"><IMG=20
+height=3D15 alt=3DDonate=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/butt=
+on-donate.gif"=20
+width=3D80></A> <A title=3D"Powered by PHP" =
+href=3D"http://www.php.net/"><IMG=20
+height=3D15 alt=3D"Powered by PHP"=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/butt=
+on-php.gif"=20
+width=3D80></A> <A title=3D"Valid XHTML 1.0"=20
+href=3D"http://validator.w3.org/check/referer"><IMG height=3D15=20
+alt=3D"Valid XHTML 1.0"=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/butt=
+on-xhtml.png"=20
+width=3D80></A> <A title=3D"Valid CSS"=20
+href=3D"http://jigsaw.w3.org/css-validator/check/referer"><IMG =
+height=3D15=20
+alt=3D"Valid CSS"=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/butt=
+on-css.png"=20
+width=3D80></A> <A title=3D"Driven by DokuWiki"=20
+href=3D"http://wiki.splitbrain.org/wiki:dokuwiki"><IMG height=3D15=20
+alt=3D"Driven by DokuWiki"=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/butt=
+on-dw.png"=20
+width=3D80></A> <!--=0A=
+=0A=
+<rdf:RDF xmlns=3D"http://web.resource.org/cc/"=0A=
+    xmlns:dc=3D"http://purl.org/dc/elements/1.1/"=0A=
+    xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#">=0A=
+<Work rdf:about=3D"">=0A=
+   <dc:type rdf:resource=3D"http://purl.org/dc/dcmitype/Text" />=0A=
+   <license =
+rdf:resource=3D"http://creativecommons.org/licenses/by-nc-sa/2.0/" />=0A=
+</Work>=0A=
+=0A=
+<License rdf:about=3D"http://creativecommons.org/licenses/by-nc-sa/2.0/">=0A=
+   <permits rdf:resource=3D"http://web.resource.org/cc/Reproduction" />=0A=
+   <permits rdf:resource=3D"http://web.resource.org/cc/Distribution" />=0A=
+   <requires rdf:resource=3D"http://web.resource.org/cc/Notice" />=0A=
+   <requires rdf:resource=3D"http://web.resource.org/cc/Attribution" />=0A=
+   <prohibits rdf:resource=3D"http://web.resource.org/cc/CommercialUse" =
+/>=0A=
+   <permits rdf:resource=3D"http://web.resource.org/cc/DerivativeWorks" =
+/>=0A=
+   <requires rdf:resource=3D"http://web.resource.org/cc/ShareAlike" />=0A=
+</License>=0A=
+=0A=
+</rdf:RDF>=0A=
+=0A=
+--></DIV>
+<DIV class=3Dno><IMG height=3D1 alt=3D""=20
+src=3D"http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/indexer.php?id=3Dte=
+rm_project&amp;1229333221"=20
+width=3D1></DIV></BODY></HTML>
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/button-rss.png
+
+iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAIAAAD8q9/YAAAA30lEQVR4nO2XPQ6DMAyFnSpnjWcW
+Bg7AwMLs09LBxUrtJISKH6nhE0LxEwQ/PRKECyFAS3gAIKK727gIRPTr0B0wHy3TPBwwzzn03QgA
+r7vbuJrHMC2foywmL4vg90eNN0U7CR8/lDl8QuP1TIseCFYxTPPQd6OcYw8slm+P59lbqicqUq80
+RyeW0OkwrZLp1T47KRZQoZXLGjIJKzM26lz4373mPNf3tyvhGlKGYfUsrkRkrGIQnzWRcko13asr
+y2USF0Igoka+w4j4fJb+nXUNb225lezdM6/Htfa39AZuwaKf/ZR/zQAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/button-cc.gif
+
+R0lGODlhUAAPAPcAAImOef///2ZmZl5yXl5xXl10jlxwXFptWlBzgm1+bVpuWoqPek9kT11wXVNo
+U1drV1dqV4iViFRpVGF0YXiHeMTLxPr7+m+Ab77GvomOemJ1YpOgk9LX0lhrWFJnUqWwpU1iTaax
+pnuLe11xXVFmUdvf22ByYLrCuvX29fT39PT29Pb49rfAt4SShFJlUnqJera+tnKDcl9yX01xf2d4
+Z+7w7oeVh3GCceLm4t3h3YCPgIaVhqGsobzDvGx8bOPl42B0YMvRy+Dj4Ojr6FxvXNfb16y3rNbb
+1n6NfnCAcFVqVWV3ZWV2Zc3Tzc7TzlVpVVhsWIiWiEleSZSilHCBcJGekZOfk42SfW5/blhqWNPZ
+04uYi+To5IqYirO8s4aUhpypnLO7s/f491ltWeXp5e3w7fn5+cHIwefq50pfSrrDutDV0MXMxU91
+peHl4au0q+Pm44+cj6Gtoevu68PLw5mmmVZrVk9jT9LY0oORg4KSgrnBuYqPe1FnUVRoVMLJwmBz
+YHKCcubp5kJZQqiyqOzv7MDS5YuQfJShlLW+tWmJmltuW1dsV7G7sYuZi6Ouo6KtonmJeWx9bAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABQAA8A
+AAj/AAUIHEiwoMGDCBMqXMhwYICHECNKnEixosWLGDMKDNAGgUcEMxQZGjLFwx0GJh6JwZPAwICX
+AwIAmEmzps2bOHPqxBlgYwECQDskEbKGCQkDQA+AQIIiiAaXL2XunEq1qs2eAgL8JNAAAowaLxjI
+IHBg0YQJaays2NABplSrcONe9QmUUQw4YRzo8NIojwgWiVoY4MAG0IioNAPwOTTz7cPEjwE4hiwV
+4gLJkXnSJSBhB5o4GnA0wRBCS4kTIUAYKUJFAeLGNSvDlhxbNu3YuG/fxKoVqIMqc2x8MRNo0AUL
+jqQ88CCnBAXXMRMvyDD7bePIMrNDplw9J++tfrq4rInio4yaOoR+nODxgcSbIzegT6Z+27b1ytbr
+586fePMDClx80McGZ2AQwRZ/9IAIAxU4sQRUjmG33XW21ffYZRBdgRl//WW1FREH0EGGJFkkkAAB
+JlyQwBMipAAJBG7JJaNc3wFFgBIRqLDHGBA0AFQDDhDAQQ5YQBfdjEhS9R1MIzwAhgUV0CDBAVC4
+EIkghehhx0tAHJnkl5plldGYZJZpJkUNpanmmmwaFBAAOw==
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/button-donate.gif
+
+R0lGODlhUAAPAJEAAImOef///1zMK2ZmZiH5BAAAAAAALAAAAABQAA8AAAKZnI+py+0PT5i02ouz
+3rybIITiSJZhAKTqyrbuC7vBZ9Y1Guf6zs4DeLONcLyisUczUU7AElE2WUVTxOcUQKFekT+l8xbD
+ialasrmqerZ8TdJkCIaNsWd6NWvGbqXJ4Cn+MidYVpenxtUmUsGUeBK2dYVWSKd1SNXnJjR0xHnE
+pglq2Tm6hgmqRJoq99HR6voKixExS1trq1AAADs=
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/button-php.gif
+
+R0lGODlhUAAPAMIAAGZmZjFlnP///4mOef///////////////yH5BAAKAP8ALAAAAABQAA8AAAOq
+CLrc/jDKSZe4OOvNu/9gqAhBaZ5oWgpD675wLM+0LIxqnrN17/+wG4CkK5p4wKQyiFtdjisn8fjC
+VJFYl3Ww5V5a3ZhwSixHA2aqFszmslnZtXveRjKHx6e0rFeDv3VvdFtdhG1iTWgoaVMndnZzPHCD
+VZRykFqJjYqcmyuVQY90XpJ1gGF3nkYpmEuuPWOrRq2vtYh4sjq0trxcIyHAwcLDHBXGx8jJDgkA
+IfkEAQoAAwAsBQAFABAABQAAAxMoGizdywVJ31TyLj2Zr531WVkCADs=
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/button-xhtml.png
+
+iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPBAMAAACB51W8AAAAMFBMVEX////2+fvp7vLa5O7e397O
+3erKztKvwtasrrCHp8iJjnleh7VmZmY7aqNQUFAaTpE1Y+cLAAAAzElEQVQoz2M4QyRgOMBAFOBB
+VbgKJwApLGeazFA9c6JWiwIBhXOZdjLfnX9x3RkHAgrtE/eyf68tO54FMpFrFdcCIGKAMICAAYJB
+CqU33bfc+pejgRHkxgULVi0AKVrFsACicMEqsABIofjP27snzZ/mAPEM16oFDCCFXFwYCpn/T/8b
+IPkV4mu4iTCrkRQy7g/9G8T+g4HFAe5GqEKw+7i4YG5krGXaWTv3WkdfAgFfM1gylEveDqh5IUBI
+IdC7jEEgmwkpJC6uiU09APCBFlMwgeIwAAAAAElFTkSuQmCC
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/button-css.png
+
+iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPBAMAAACB51W8AAAAMFBMVEX////2+fvp7vLa5O7e397O
+3erKztKvwtasrrCHp8iJjnleh7VmZmY7aqNQUFAaTpE1Y+cLAAAAtklEQVQoz2M4QyRgOMBAFOBB
+VbgKJwApLGeazFA9c6JWiwIBhXOZdjLfnX9x3RkHAgrtE/eyf68tO54FMnEB16oFDCCERaH0pvuW
+W/9yNDCC3Mi1YBXXKhDColD85+3dk+ZPcwB7hgtiKBc2hcz/p/8NkPwK8TXQxFUQhKmQcX/o3yD2
+HwwsDhA3MoARNoW1TDtr517r6Esg4GsGS4ZyydsBNS8ECCkEepcxCGQzIYXExTWxqQcAQjgks+mB
+AnUAAAAASUVORK5CYII=
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/tpl/default/images/button-dw.png
+
+iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAMAAABEF7i9AAAAYFBMVEWnsKBLqz5TU1ODlp3///+r
+rEd2fGZLa3b48crmxLBdeYM7XWrzaGKJ256ojHb6m3bKVzehWTS0JQLMzMyqxtLG5c77+ObY2eTm
+9eB/KgPo6c/l0dr54uHByLQKoRJuhI3Kf6ncAAAACXBIWXMAAABIAAAASABGyWs+AAAA8UlEQVQ4
+y62T3ZKDIAyFg8mCYEX8LWulef+3LKzdjtpeFc9kYMjFN4cDgeJkQUFPhQBRIcgW6HslYFVVyihb
+rgLXWKNij+QXegKVMlAmhzhY17hCKpUJNMwRGGZvnWslsskHSl2W02S7ru1xC4yxrFta9vV2fgHj
+jdFFYKN/O0uEiBvgrrYYOna3DplRa325QCA/xyhNDPEDkOQn4H937xD7Msw0jmMdPDLnOjSMoO93
+AVfygZg3Dt8yfFk6xngA4k1EogDy9QmvnP7NMkEiCvBgcv9hsmim5bbUov4RbDInZdUEA/bDtRYh
+Y5L/ZvlkPQCI8x6MvXxPDAAAAABJRU5ErkJggg==
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/indexer.php?id=term_project&1229333221
+
+R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/css.php
+
+A.interwiki {
+	PADDING-LEFT: 16px; BACKGROUND: =
+url(/courses/NLP/lib/images/interwiki.png) no-repeat 0px 1px
+}
+A.iw_wp {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/wp.gif)
+}
+A.iw_wpde {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/wpde.gif)
+}
+A.iw_wpmeta {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/wpmeta.gif)
+}
+A.iw_doku {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/doku.gif)
+}
+A.iw_sb {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/sb.gif)
+}
+A.iw_amazon {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/amazon.gif)
+}
+A.iw_amazon_de {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/amazon.de.gif)
+}
+A.iw_amazon_uk {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/amazon.uk.gif)
+}
+A.iw_phpfn {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/phpfn.gif)
+}
+A.iw_bug {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/bug.gif)
+}
+A.iw_coral {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/coral.gif)
+}
+A.iw_google {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/google.gif)
+}
+A.iw_meatball {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/meatball.gif)
+}
+A.iw_wiki {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/wiki.gif)
+}
+A.mediafile {
+	PADDING-LEFT: 16px; BACKGROUND: =
+url(/courses/NLP/lib/images/fileicons/file.png) no-repeat 0px 1px
+}
+A.mf_tgz {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/tgz.png)
+}
+A.mf_gz {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/gz.png)
+}
+A.mf_zip {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/zip.png)
+}
+A.mf_pdf {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/pdf.png)
+}
+A.mf_txt {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/txt.png)
+}
+A.mf_html {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/html.png)
+}
+A.mf_htm {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/htm.png)
+}
+A.mf_ps {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/ps.png)
+}
+A.mf_doc {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/doc.png)
+}
+A.mf_xls {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/xls.png)
+}
+A.mf_ppt {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/ppt.png)
+}
+A.mf_rtf {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/rtf.png)
+}
+A.mf_xml {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/xml.png)
+}
+A.mf_rpm {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/rpm.png)
+}
+A.mf_deb {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/deb.png)
+}
+A.mf_conf {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/conf.png)
+}
+A.mf_sxw {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/sxw.png)
+}
+A.mf_sxc {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/sxc.png)
+}
+A.mf_sxi {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/sxi.png)
+}
+A.mf_sxd {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/sxd.png)
+}
+A.mf_odc {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odc.png)
+}
+A.mf_odf {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odf.png)
+}
+A.mf_odg {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odg.png)
+}
+A.mf_odi {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odi.png)
+}
+A.mf_odp {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odp.png)
+}
+A.mf_ods {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/ods.png)
+}
+A.mf_odt {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odt.png)
+}
+DIV.clearer {
+	CLEAR: both; OVERFLOW: hidden; LINE-HEIGHT: 0; HEIGHT: 0px
+}
+DIV.no {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: =
+0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.error {
+	PADDING-LEFT: 3em; FONT-SIZE: 90%; BACKGROUND: =
+url(/courses/NLP/lib/styles/../images/error.png) #fcc no-repeat 0.5em =
+0px; MARGIN: 0px; COLOR: #000; BORDER-BOTTOM: #faa 1px solid
+}
+DIV.info {
+	PADDING-LEFT: 3em; FONT-SIZE: 90%; BACKGROUND: =
+url(/courses/NLP/lib/styles/../images/info.png) #ccf no-repeat 0.5em =
+0px; MARGIN: 0px; COLOR: #000; BORDER-BOTTOM: #aaf 1px solid
+}
+DIV.success {
+	PADDING-LEFT: 3em; FONT-SIZE: 90%; BACKGROUND: =
+url(/courses/NLP/lib/styles/../images/success.png) #cfc no-repeat 0.5em =
+0px; MARGIN: 0px; COLOR: #000; BORDER-BOTTOM: #afa 1px solid
+}
+DIV.dokuwiki .medialeft {
+	FLOAT: left
+}
+DIV.dokuwiki .mediaright {
+	FLOAT: right
+}
+DIV.dokuwiki .mediacenter {
+	DISPLAY: block; MARGIN-LEFT: auto; MARGIN-RIGHT: auto
+}
+DIV.dokuwiki EM.u {
+	FONT-STYLE: normal; TEXT-DECORATION: underline
+}
+.code .br0 {
+	COLOR: #66cc66
+}
+.code .co1 {
+	COLOR: #808080; FONT-STYLE: italic
+}
+.code .co2 {
+	COLOR: #808080; FONT-STYLE: italic
+}
+.code .coMULTI {
+	COLOR: #808080; FONT-STYLE: italic
+}
+.code .es0 {
+	FONT-WEIGHT: bold; COLOR: #000099
+}
+.code .kw1 {
+	COLOR: #b1b100
+}
+.code .kw2 {
+	FONT-WEIGHT: bold; COLOR: #000000
+}
+.code .kw3 {
+	COLOR: #000066
+}
+.code .kw4 {
+	COLOR: #993333
+}
+.code .kw5 {
+	COLOR: #0000ff
+}
+.code .me0 {
+	COLOR: #006600
+}
+.code .nu0 {
+	COLOR: #cc66cc
+}
+.code .re0 {
+	COLOR: #0000ff
+}
+.code .re1 {
+	COLOR: #0000ff
+}
+.code .re2 {
+	COLOR: #0000ff
+}
+.code .re4 {
+	COLOR: #009999
+}
+.code .sc0 {
+	COLOR: #00bbdd
+}
+.code .sc1 {
+	COLOR: #ddbb00
+}
+.code .sc2 {
+	COLOR: #009900
+}
+.code .st0 {
+	COLOR: #ff0000
+}
+DIV.dokuwiki .header {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; =
+PADDING-TOP: 3px; HEIGHT: 35px
+}
+DIV.dokuwiki .pagename {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 1px; FONT-WEIGHT: bolder; FONT-SIZE: =
+200%; FLOAT: left; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; COLOR: =
+#dee7ec; PADDING-TOP: 1px; HEIGHT: 25px; TEXT-ALIGN: left
+}
+DIV.dokuwiki .pagename A:link {
+	COLOR: #436976; TEXT-DECORATION: none
+}
+DIV.dokuwiki .pagename A:visited {
+	COLOR: #436976; TEXT-DECORATION: none
+}
+DIV.dokuwiki .pagename A:hover {
+	COLOR: #436976; TEXT-DECORATION: none
+}
+DIV.dokuwiki .pagename A:active {
+	COLOR: #436976; TEXT-DECORATION: none
+}
+DIV.dokuwiki .logo {
+	FONT-WEIGHT: bolder; FONT-SIZE: 220%; FLOAT: right; VERTICAL-ALIGN: =
+middle; TEXT-ALIGN: right
+}
+DIV.dokuwiki .logo A:link {
+	COLOR: #dee7ec; LETTER-SPACING: 2pt; FONT-VARIANT: small-caps; =
+TEXT-DECORATION: none
+}
+DIV.dokuwiki .logo A:visited {
+	COLOR: #dee7ec; LETTER-SPACING: 2pt; FONT-VARIANT: small-caps; =
+TEXT-DECORATION: none
+}
+DIV.dokuwiki .logo A:hover {
+	COLOR: #dee7ec; LETTER-SPACING: 2pt; FONT-VARIANT: small-caps; =
+TEXT-DECORATION: none
+}
+DIV.dokuwiki .logo A:active {
+	COLOR: #dee7ec; LETTER-SPACING: 2pt; FONT-VARIANT: small-caps; =
+TEXT-DECORATION: none
+}
+DIV.dokuwiki .bar {
+	CLEAR: both; PADDING-RIGHT: 0.15em; BORDER-TOP: #8cacbb 1px solid; =
+PADDING-LEFT: 0.15em; BACKGROUND: #dee7ec; PADDING-BOTTOM: 0.15em; =
+MARGIN: 0px; PADDING-TOP: 0.15em; BORDER-BOTTOM: #8cacbb 1px solid; =
+HEIGHT: 2em
+}
+DIV.dokuwiki .bar-left {
+	FLOAT: left
+}
+DIV.dokuwiki .bar-right {
+	FLOAT: right; TEXT-ALIGN: right
+}
+DIV.dokuwiki #bar__bottom {
+	MARGIN-BOTTOM: 3px
+}
+DIV.dokuwiki DIV.meta {
+	CLEAR: both; MARGIN-TOP: 1em; FONT-SIZE: 70%; COLOR: #436976
+}
+DIV.dokuwiki DIV.meta DIV.user {
+	FLOAT: left
+}
+DIV.dokuwiki DIV.meta DIV.doc {
+	TEXT-ALIGN: right
+}
+DIV.dokuwiki DIV.uploadform {
+	BORDER-TOP: #8cacbb 1px solid; MARGIN-TOP: 0.5em
+}
+DIV.dokuwiki .mediaselect-left {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FLOAT: left; PADDING-BOTTOM: =
+0.5em; WIDTH: 30%; PADDING-TOP: 0.5em
+}
+DIV.dokuwiki .mediaselect-right {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FLOAT: right; =
+PADDING-BOTTOM: 0.5em; BORDER-LEFT: #8cacbb 1px solid; WIDTH: 65%; =
+PADDING-TOP: 0.5em
+}
+DIV.dokuwiki DIV.mediaref_head {
+	MARGIN-LEFT: 0.5em
+}
+DIV.dokuwiki DIV.mediaref .search_result {
+	PADDING-LEFT: 1em
+}
+DIV.dokuwiki .mediaref_ref {
+	COLOR: #090
+}
+DIV.dokuwiki DIV.mediaref_hidden {
+	MARGIN-TOP: 1em; FONT-SIZE: 1.2em; COLOR: #bb0000; TEXT-ALIGN: center
+}
+DIV.dokuwiki DIV.mediaref_footer {
+	MARGIN-TOP: 1em; TEXT-ALIGN: center
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; FONT: 80% "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; COLOR: black; PADDING-TOP: 0px; BACKGROUND-COLOR: #fff
+}
+DIV.dokuwiki DIV.page {
+	MARGIN-TOP: 4px; MARGIN-LEFT: 1em; MARGIN-RIGHT: 2em; TEXT-ALIGN: =
+justify
+}
+DIV.dokuwiki TABLE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; PADDING-BOTTOM: =
+0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV.dokuwiki TR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+DIV.dokuwiki TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+DIV.dokuwiki TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+DIV.dokuwiki IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.dokuwiki P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px =
+0px 1em; PADDING-TOP: 0px
+}
+DIV.dokuwiki HR {
+	BORDER-TOP: #8cacbb 1px solid; BORDER-LEFT-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; HEIGHT: 0px; TEXT-ALIGN: center; =
+BORDER-RIGHT-WIDTH: 0px
+}
+DIV.dokuwiki DIV.nothing {
+	MARGIN: 2em; TEXT-ALIGN: center
+}
+DIV.dokuwiki FORM {
+	DISPLAY: inline; MARGIN: 0px; BORDER-TOP-STYLE: none; =
+BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: =
+none
+}
+DIV.dokuwiki LABEL.block {
+	DISPLAY: block; FONT-WEIGHT: bold; TEXT-ALIGN: right
+}
+DIV.dokuwiki LABEL.simple {
+	DISPLAY: block; FONT-WEIGHT: normal; TEXT-ALIGN: left
+}
+DIV.dokuwiki LABEL.block INPUT.edit {
+	WIDTH: 50%
+}
+DIV.dokuwiki FIELDSET {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: =
+auto; BORDER-LEFT: #8cacbb 1px solid; WIDTH: 300px; PADDING-TOP: 0.5em; =
+BORDER-BOTTOM: #8cacbb 1px solid; TEXT-ALIGN: center
+}
+DIV.dokuwiki TEXTAREA.edit {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 3px; FONT-SIZE: 14px; PADDING-BOTTOM: =
+3px; BORDER-LEFT: #8cacbb 1px solid; WIDTH: 100%; COLOR: black; =
+PADDING-TOP: 3px; BORDER-BOTTOM: #8cacbb 1px solid; FONT-FAMILY: =
+monospace; BACKGROUND-COLOR: #fff
+}
+DIV.dokuwiki INPUT.edit {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 0.3em; BORDER-TOP: =
+#8cacbb 1px solid; DISPLAY: inline; PADDING-LEFT: 0.3em; FONT-SIZE: =
+100%; PADDING-BOTTOM: 0.2em; MARGIN: 1px; VERTICAL-ALIGN: middle; =
+BORDER-LEFT: #8cacbb 1px solid; COLOR: black; PADDING-TOP: 0.2em; =
+BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: #fff
+}
+DIV.dokuwiki SELECT.edit {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 0.3em; BORDER-TOP: =
+#8cacbb 1px solid; DISPLAY: inline; PADDING-LEFT: 0.3em; FONT-SIZE: =
+100%; PADDING-BOTTOM: 0.2em; MARGIN: 1px; VERTICAL-ALIGN: middle; =
+BORDER-LEFT: #8cacbb 1px solid; COLOR: black; PADDING-TOP: 0.2em; =
+BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: #fff
+}
+DIV.dokuwiki SELECT.edit {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.1em; =
+PADDING-TOP: 0.1em
+}
+DIV.dokuwiki INPUT.missing {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 0.3em; BORDER-TOP: =
+#8cacbb 1px solid; DISPLAY: inline; PADDING-LEFT: 0.3em; FONT-SIZE: =
+100%; PADDING-BOTTOM: 0.2em; MARGIN: 1px; VERTICAL-ALIGN: middle; =
+BORDER-LEFT: #8cacbb 1px solid; COLOR: black; PADDING-TOP: 0.2em; =
+BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: #ffcccc
+}
+DIV.dokuwiki DIV.toolbar {
+	MARGIN: 2px 0px; TEXT-ALIGN: left
+}
+DIV.dokuwiki DIV#wiki__editbar {
+	MARGIN: 2px 0px; TEXT-ALIGN: left
+}
+DIV.dokuwiki DIV#size__ctl {
+	FLOAT: right; WIDTH: 40px; HEIGHT: 2.7em
+}
+DIV.dokuwiki #size__ctl IMG {
+	CURSOR: pointer
+}
+DIV.dokuwiki DIV#wiki__editbar DIV.editButtons {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: =
+0.7em; PADDING-TOP: 0px
+}
+DIV.dokuwiki DIV#wiki__editbar DIV.summary {
+	FLOAT: left
+}
+DIV.dokuwiki .nowrap {
+	WHITE-SPACE: nowrap
+}
+DIV.dokuwiki INPUT.button {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 0.4em; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 0.4em; FONT-SIZE: 100%; PADDING-BOTTOM: =
+0.12em; MARGIN: 1px; VERTICAL-ALIGN: middle; BORDER-LEFT: #8cacbb 1px =
+solid; CURSOR: pointer; COLOR: black; PADDING-TOP: 0.12em; =
+BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: #fff; =
+TEXT-DECORATION: none
+}
+DIV.dokuwiki BUTTON.button {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 0.4em; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 0.4em; FONT-SIZE: 100%; PADDING-BOTTOM: =
+0.12em; MARGIN: 1px; VERTICAL-ALIGN: middle; BORDER-LEFT: #8cacbb 1px =
+solid; CURSOR: pointer; COLOR: black; PADDING-TOP: 0.12em; =
+BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: #fff; =
+TEXT-DECORATION: none
+}
+* HTML DIV.dokuwiki INPUT.button {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; =
+PADDING-TOP: 0px; HEIGHT: 1.8em
+}
+* HTML DIV.dokuwiki BUTTON.button {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; =
+PADDING-TOP: 0px; HEIGHT: 1.8em
+}
+DIV.dokuwiki DIV.secedit INPUT.button {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: =
+#8cacbb 1px solid; DISPLAY: inline; PADDING-LEFT: 0px; FONT-SIZE: 10px; =
+FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; VERTICAL-ALIGN: middle; =
+BORDER-LEFT: #8cacbb 1px solid; CURSOR: pointer; COLOR: black; =
+PADDING-TOP: 0px; BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: =
+#fff; TEXT-DECORATION: none
+}
+DIV.dokuwiki DIV.pagenav {
+	MARGIN-TOP: 1em
+}
+DIV.dokuwiki DIV.pagenav-prev {
+	FLOAT: left; WIDTH: 50%; TEXT-ALIGN: right
+}
+DIV.dokuwiki DIV.pagenav-prev INPUT.button {
+	MARGIN-RIGHT: 5px
+}
+DIV.dokuwiki DIV.pagenav-next {
+	FLOAT: right; WIDTH: 50%; TEXT-ALIGN: left
+}
+DIV.dokuwiki DIV.pagenav-next INPUT.button {
+	MARGIN-LEFT: 5px
+}
+DIV.dokuwiki A {
+	COLOR: #436976; TEXT-DECORATION: none
+}
+DIV.dokuwiki A:hover {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+DIV.dokuwiki H1 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H2 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H3 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H4 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H5 A {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H1 A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H2 A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H3 A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H4 A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki H5 A:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+DIV.dokuwiki A.urlextern {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 16px; BACKGROUND: =
+url(/courses/NLP/lib/tpl/default/images/link_icon.gif) no-repeat 0px =
+1px; PADDING-BOTTOM: 1px; COLOR: #436976; PADDING-TOP: 1px; =
+TEXT-DECORATION: none
+}
+DIV.dokuwiki A.urlextern:visited {
+	COLOR: purple
+}
+DIV.dokuwiki A.urlextern:hover {
+	TEXT-DECORATION: underline
+}
+DIV.dokuwiki A.windows {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 16px; BACKGROUND: =
+url(/courses/NLP/lib/tpl/default/images/windows.gif) no-repeat 0px 1px; =
+PADDING-BOTTOM: 1px; COLOR: #436976; PADDING-TOP: 1px; TEXT-DECORATION: =
+none
+}
+DIV.dokuwiki A.windows:visited {
+	COLOR: purple
+}
+DIV.dokuwiki A.windows:hover {
+	TEXT-DECORATION: underline
+}
+DIV.dokuwiki A.interwiki {
+	COLOR: #436976; TEXT-DECORATION: none
+}
+DIV.dokuwiki A.interwiki:visited {
+	COLOR: purple
+}
+DIV.dokuwiki A.interwiki:hover {
+	TEXT-DECORATION: underline
+}
+DIV.dokuwiki A.media {
+	COLOR: #436976; TEXT-DECORATION: none
+}
+DIV.dokuwiki A.media:hover {
+	COLOR: #436976; TEXT-DECORATION: underline
+}
+DIV.dokuwiki A.mail {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 16px; BACKGROUND: =
+url(/courses/NLP/lib/tpl/default/images/mail_icon.gif) no-repeat 0px =
+1px; PADDING-BOTTOM: 1px; COLOR: #436976; PADDING-TOP: 1px; =
+TEXT-DECORATION: none
+}
+DIV.dokuwiki A.mail:hover {
+	TEXT-DECORATION: underline
+}
+DIV.dokuwiki A.wikilink1:link {
+	COLOR: #090; TEXT-DECORATION: none
+}
+DIV.dokuwiki A.wikilink1:visited {
+	COLOR: #090; TEXT-DECORATION: none
+}
+DIV.dokuwiki A.wikilink1:hover {
+	COLOR: #090; TEXT-DECORATION: underline
+}
+DIV.dokuwiki A.wikilink2:link {
+	COLOR: #f30; TEXT-DECORATION: none
+}
+DIV.dokuwiki A.wikilink2:visited {
+	COLOR: #f30; TEXT-DECORATION: none
+}
+DIV.dokuwiki A.wikilink2:hover {
+	COLOR: #f30; TEXT-DECORATION: underline
+}
+DIV.dokuwiki DIV.preview {
+	BORDER-RIGHT: #000 1px dashed; PADDING-RIGHT: 4px; BORDER-TOP: #000 1px =
+dashed; PADDING-LEFT: 4px; BACKGROUND: #f7f9fa; PADDING-BOTTOM: 4px; =
+MARGIN-LEFT: 2em; BORDER-LEFT: #000 1px dashed; PADDING-TOP: 4px; =
+BORDER-BOTTOM: #000 1px dashed
+}
+DIV.dokuwiki DIV.breadcrumbs {
+	PADDING-LEFT: 4px; FONT-SIZE: 80%; COLOR: #666; BACKGROUND-COLOR: =
+#f5f5f5
+}
+DIV.dokuwiki SPAN.user {
+	FONT-SIZE: 90%; COLOR: #ccc
+}
+DIV.dokuwiki LI.minor {
+	COLOR: #666; FONT-STYLE: italic
+}
+DIV.dokuwiki IMG.media {
+	MARGIN: 3px
+}
+DIV.dokuwiki IMG.medialeft {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; =
+BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 1.5em 0px 0px; BORDER-RIGHT-WIDTH: =
+0px
+}
+DIV.dokuwiki IMG.mediaright {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: right; =
+BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0px 0px 1.5em; BORDER-RIGHT-WIDTH: =
+0px
+}
+DIV.dokuwiki IMG.mediacenter {
+	BORDER-TOP-WIDTH: 0px; DISPLAY: block; BORDER-LEFT-WIDTH: 0px; =
+BORDER-BOTTOM-WIDTH: 0px; MARGIN-LEFT: auto; MARGIN-RIGHT: auto; =
+BORDER-RIGHT-WIDTH: 0px
+}
+DIV.dokuwiki IMG.middle {
+	VERTICAL-ALIGN: middle
+}
+DIV.dokuwiki ACRONYM {
+	CURSOR: help; BORDER-BOTTOM: #000 1px dotted
+}
+DIV.dokuwiki H1 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #8cacbb 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+DIV.dokuwiki H2 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #8cacbb 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+DIV.dokuwiki H3 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #8cacbb 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+DIV.dokuwiki H4 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #8cacbb 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+DIV.dokuwiki H5 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #8cacbb 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+DIV.dokuwiki H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 160%; MARGIN-LEFT: 0px
+}
+DIV.dokuwiki H2 {
+	FONT-SIZE: 150%; MARGIN-LEFT: 20px
+}
+DIV.dokuwiki H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 140%; MARGIN-LEFT: 40px; =
+BORDER-BOTTOM-STYLE: none
+}
+DIV.dokuwiki H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; MARGIN-LEFT: 60px; =
+BORDER-BOTTOM-STYLE: none
+}
+DIV.dokuwiki H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%; MARGIN-LEFT: 80px; =
+BORDER-BOTTOM-STYLE: none
+}
+DIV.dokuwiki DIV.level1 {
+	MARGIN-LEFT: 3px
+}
+DIV.dokuwiki DIV.level2 {
+	MARGIN-LEFT: 23px
+}
+DIV.dokuwiki DIV.level3 {
+	MARGIN-LEFT: 43px
+}
+DIV.dokuwiki DIV.level4 {
+	MARGIN-LEFT: 63px
+}
+DIV.dokuwiki DIV.level5 {
+	MARGIN-LEFT: 83px
+}
+DIV.dokuwiki UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: none; =
+PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0.5em 1.5em; COLOR: #638c9c; =
+LINE-HEIGHT: 1.5em; PADDING-TOP: 0px; LIST-STYLE-TYPE: square
+}
+DIV.dokuwiki OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; =
+LIST-STYLE-IMAGE: none; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0.5em =
+1.5em; COLOR: #638c9c; LINE-HEIGHT: 1.5em; PADDING-TOP: 0px
+}
+DIV.dokuwiki .li {
+	FONT-WEIGHT: normal; COLOR: #000
+}
+DIV.dokuwiki OL {
+	LIST-STYLE-TYPE: decimal
+}
+DIV.dokuwiki OL OL {
+	LIST-STYLE-TYPE: upper-roman
+}
+DIV.dokuwiki OL OL OL {
+	LIST-STYLE-TYPE: lower-alpha
+}
+DIV.dokuwiki OL OL OL OL {
+=09
+}
+DIV.dokuwiki LI.open {
+	LIST-STYLE-IMAGE: url(/courses/NLP/lib/tpl/default/images/open.gif)
+}
+DIV.dokuwiki LI.closed {
+	LIST-STYLE-IMAGE: url(/courses/NLP/lib/tpl/default/images/closed.gif)
+}
+DIV.dokuwiki BLOCKQUOTE {
+	PADDING-LEFT: 3px; MARGIN-LEFT: 0px; BORDER-LEFT: #8cacbb 2px solid
+}
+DIV.dokuwiki PRE.pre {
+	BORDER-RIGHT: #8cacbb 1px dashed; PADDING-RIGHT: 0.5em; BORDER-TOP: =
+#8cacbb 1px dashed; PADDING-LEFT: 0.5em; FONT-SIZE: 120%; =
+PADDING-BOTTOM: 0.5em; OVERFLOW: auto; BORDER-LEFT: #8cacbb 1px dashed; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #8cacbb 1px dashed; =
+BACKGROUND-COLOR: #f7f9fa
+}
+DIV.dokuwiki PRE.code {
+	BORDER-RIGHT: #8cacbb 1px dashed; PADDING-RIGHT: 0.5em; BORDER-TOP: =
+#8cacbb 1px dashed; PADDING-LEFT: 0.5em; FONT-SIZE: 120%; =
+PADDING-BOTTOM: 0.5em; OVERFLOW: auto; BORDER-LEFT: #8cacbb 1px dashed; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #8cacbb 1px dashed; =
+BACKGROUND-COLOR: #f7f9fa
+}
+DIV.dokuwiki CODE {
+	FONT-SIZE: 120%
+}
+DIV.dokuwiki PRE.file {
+	BORDER-RIGHT: #8cacbb 1px dashed; PADDING-RIGHT: 0.5em; BORDER-TOP: =
+#8cacbb 1px dashed; PADDING-LEFT: 0.5em; FONT-SIZE: 120%; =
+PADDING-BOTTOM: 0.5em; OVERFLOW: auto; BORDER-LEFT: #8cacbb 1px dashed; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #8cacbb 1px dashed; =
+BACKGROUND-COLOR: #dee7ec
+}
+DIV.dokuwiki TABLE.inline {
+	BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: #fff; border-spacing: 0px
+}
+DIV.dokuwiki TABLE.inline TH {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: =
+#8cacbb 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #8cacbb 1px solid; =
+BACKGROUND-COLOR: #dee7ec
+}
+DIV.dokuwiki TABLE.inline TD {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: =
+#8cacbb 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #8cacbb 1px solid
+}
+DIV.dokuwiki .leftalign {
+	TEXT-ALIGN: left
+}
+DIV.dokuwiki .centeralign {
+	TEXT-ALIGN: center
+}
+DIV.dokuwiki .rightalign {
+	TEXT-ALIGN: right
+}
+DIV.dokuwiki DIV.toc {
+	CLEAR: both; MARGIN-TOP: 1.2em; FONT-SIZE: 80%; FLOAT: right; =
+MARGIN-BOTTOM: 0px; MARGIN-LEFT: 2em; WIDTH: 200px
+}
+DIV.dokuwiki DIV.tocheader {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 3px; FONT-WEIGHT: bold; MARGIN-BOTTOM: =
+2px; PADDING-BOTTOM: 3px; BORDER-LEFT: #8cacbb 1px solid; PADDING-TOP: =
+3px; BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: #dee7ec; =
+TEXT-ALIGN: left
+}
+DIV.dokuwiki DIV.tocheader IMG {
+	MARGIN-TOP: 0.3em; FLOAT: right; WIDTH: 0.8em; CURSOR: pointer; =
+MARGIN-RIGHT: 3px; HEIGHT: 0.8em
+}
+DIV.dokuwiki #toc__inside {
+	BORDER-RIGHT: #8cacbb 1px solid; BORDER-TOP: #8cacbb 1px solid; =
+PADDING-BOTTOM: 0.7em; BORDER-LEFT: #8cacbb 1px solid; PADDING-TOP: =
+0.5em; BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: #fff; =
+TEXT-ALIGN: left
+}
+DIV.dokuwiki UL.toc {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 1em; LIST-STYLE-IMAGE: none; =
+PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 1.2em; PADDING-TOP: 0px; =
+LIST-STYLE-TYPE: none
+}
+DIV.dokuwiki UL.toc LI {
+	PADDING-LEFT: 0.4em; BACKGROUND: =
+url(/courses/NLP/lib/tpl/default/images/tocdot2.gif) no-repeat 0px 0.6em
+}
+DIV.dokuwiki UL.toc LI.clear {
+	PADDING-LEFT: 0.4em; BACKGROUND-IMAGE: none
+}
+DIV.dokuwiki A.toc {
+	COLOR: #436976; TEXT-DECORATION: none
+}
+DIV.dokuwiki A.toc:hover {
+	COLOR: #000; TEXT-DECORATION: underline
+}
+DIV.dokuwiki TABLE.diff {
+	BACKGROUND: #fff
+}
+DIV.dokuwiki TD.diff-blockheader {
+	FONT-WEIGHT: bold
+}
+DIV.dokuwiki TD.diff-header {
+	FONT-SIZE: 120%; BORDER-BOTTOM: #8cacbb 1px solid
+}
+DIV.dokuwiki TD.diff-addedline {
+	FONT-SIZE: 100%; BACKGROUND: #ddffdd; FONT-FAMILY: monospace
+}
+DIV.dokuwiki TD.diff-deletedline {
+	FONT-SIZE: 100%; BACKGROUND: #ffffbb; FONT-FAMILY: monospace
+}
+DIV.dokuwiki TD.diff-context {
+	FONT-SIZE: 100%; BACKGROUND: #f7f9fa; FONT-FAMILY: monospace
+}
+DIV.dokuwiki SPAN.diffchange {
+	COLOR: red
+}
+DIV.dokuwiki DIV.footnotes {
+	CLEAR: both; BORDER-TOP: #8cacbb 1px solid; MARGIN-TOP: 1em; =
+PADDING-LEFT: 1em
+}
+DIV.dokuwiki DIV.fn {
+	FONT-SIZE: 90%
+}
+DIV.dokuwiki A.fn_top {
+	FONT-SIZE: 80%; VERTICAL-ALIGN: super
+}
+DIV.dokuwiki A.fn_bot {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; VERTICAL-ALIGN: super
+}
+DIV.insitu-footnote {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 4px; FONT-SIZE: 80%; BACKGROUND: =
+#eef3f8; MAX-WIDTH: 40%; PADDING-BOTTOM: 4px; BORDER-LEFT: #8cacbb 1px =
+solid; LINE-HEIGHT: 1.2em; PADDING-TOP: 4px; BORDER-BOTTOM: #8cacbb 1px =
+solid; TEXT-ALIGN: left
+}
+* HTML .insitu-footnote PRE.code {
+	PADDING-BOTTOM: 18px
+}
+* HTML .insitu-footnote PRE.file {
+	PADDING-BOTTOM: 18px
+}
+DIV.dokuwiki .search_result {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 30px; MARGIN-BOTTOM: 6px
+}
+DIV.dokuwiki .search_snippet {
+	FONT-SIZE: 12px; MARGIN-LEFT: 20px; COLOR: #ccc
+}
+DIV.dokuwiki .search_sep {
+	COLOR: #000
+}
+DIV.dokuwiki .search_hit {
+	BACKGROUND: #ff9; COLOR: #000
+}
+DIV.dokuwiki DIV.search_quickresult {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; MARGIN: =
+0px 0px 15px 30px; PADDING-TOP: 0px; BORDER-BOTTOM: #8cacbb 1px dashed
+}
+DIV.dokuwiki DIV.search_quickresult H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: =
+1em; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; PADDING-TOP: 0px
+}
+DIV.dokuwiki UL.search_quickhits {
+	MARGIN: 0px 0px 0.5em 1em
+}
+DIV.dokuwiki UL.search_quickhits LI {
+	FLOAT: left; MARGIN: 0px 1em; WIDTH: 30%
+}
+DIV.footerinc {
+	TEXT-ALIGN: center
+}
+.footerinc A IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px; opacity: 0.5
+}
+.footerinc A:hover IMG {
+	opacity: 1
+}
+DIV.dokuwiki DIV.ajax_qsearch {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: =
+#8cacbb 1px solid; DISPLAY: none; PADDING-LEFT: 4px; FONT-SIZE: 80%; =
+RIGHT: 237px; BACKGROUND: #eef3f8; PADDING-BOTTOM: 4px; BORDER-LEFT: =
+#8cacbb 1px solid; WIDTH: 200px; LINE-HEIGHT: 1.2em; PADDING-TOP: 4px; =
+BORDER-BOTTOM: #8cacbb 1px solid; POSITION: absolute; TEXT-ALIGN: left; =
+opacity: 0.9
+}
+BUTTON.toolbutton {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: =
+#8cacbb 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px =
+1px 0px 0px; BORDER-LEFT: #8cacbb 1px solid; CURSOR: pointer; =
+PADDING-TOP: 0px; BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: =
+#fff
+}
+DIV.picker {
+	BORDER-RIGHT: #8cacbb 1px solid; BORDER-TOP: #8cacbb 1px solid; =
+BACKGROUND: #eef3f8; BORDER-LEFT: #8cacbb 1px solid; WIDTH: 250px; =
+BORDER-BOTTOM: #8cacbb 1px solid
+}
+BUTTON.pickerbutton {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; =
+BORDER-LEFT-WIDTH: 0px; FONT-SIZE: 80%; BORDER-BOTTOM-WIDTH: 0px; =
+PADDING-BOTTOM: 0px; MARGIN: 0px 1px 1px 0px; CURSOR: pointer; =
+PADDING-TOP: 0px; BACKGROUND-COLOR: transparent; BORDER-RIGHT-WIDTH: 0px
+}
+DIV.dokuwiki A.spell_error {
+	COLOR: #f00; TEXT-DECORATION: underline
+}
+DIV.dokuwiki DIV#spell__suggest {
+	BORDER-RIGHT: #000 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #000 1px =
+solid; DISPLAY: none; PADDING-LEFT: 2px; FONT-SIZE: 80%; PADDING-BOTTOM: =
+2px; BORDER-LEFT: #000 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #000 =
+1px solid; BACKGROUND-COLOR: #fff
+}
+DIV.dokuwiki DIV#spell__result {
+	BORDER-RIGHT: #8cacbb 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#8cacbb 1px solid; DISPLAY: none; PADDING-LEFT: 3px; FONT-SIZE: 14px; =
+PADDING-BOTTOM: 3px; BORDER-LEFT: #8cacbb 1px solid; COLOR: black; =
+PADDING-TOP: 3px; BORDER-BOTTOM: #8cacbb 1px solid; BACKGROUND-COLOR: =
+#f7f9fa
+}
+DIV.dokuwiki SPAN.spell_noerr {
+	COLOR: #093
+}
+DIV.dokuwiki SPAN.spell_wait {
+	COLOR: #06c
+}
+DIV.dokuwiki DIV.img_big {
+	FLOAT: left; MARGIN-RIGHT: 0.5em
+}
+DIV.dokuwiki DL.img_tags DT {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #dee7ec
+}
+DIV.dokuwiki DL.img_tags DD {
+	BACKGROUND-COLOR: #f5f5f5
+}
+DIV.dokuwiki DIV.imagemeta {
+	FONT-SIZE: 70%; COLOR: #666; LINE-HEIGHT: 95%
+}
+DIV.dokuwiki DIV.imagemeta IMG.thumb {
+	FLOAT: left; MARGIN-RIGHT: 0.1em
+}
+DIV.dokuwiki DIV.mediaselect-right LI {
+	CLEAR: both
+}
+DIV.dokuwiki DIV.uploadform {
+	CLEAR: both
+}
+DIV.dokuwiki DIV.mediaedit DIV.data LABEL {
+	DISPLAY: block; FLOAT: left; WIDTH: 20%; MARGIN-RIGHT: 0.5em; =
+TEXT-ALIGN: right
+}
+DIV.dokuwiki DIV.mediaedit DIV.data INPUT {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; =
+MARGIN: 0.1em; WIDTH: 75%; PADDING-TOP: 0.1em
+}
+DIV.dokuwiki DIV.mediaedit DIV.data TEXTAREA {
+	PADDING-RIGHT: 0.1em; PADDING-LEFT: 0.1em; PADDING-BOTTOM: 0.1em; =
+MARGIN: 0.1em; WIDTH: 75%; PADDING-TOP: 0.1em
+}
+DIV.dokuwiki DIV.mediaedit DIV.data INPUT.button {
+	DISPLAY: block; MARGIN-LEFT: auto; WIDTH: 10em; MARGIN-RIGHT: auto
+}
+DIV.dokuwiki DIV.acladmin LABEL {
+	DISPLAY: inline; FONT-WEIGHT: normal; TEXT-ALIGN: left
+}
+DIV.dokuwiki DIV.acladmin TABLE {
+	MARGIN-LEFT: 10%; WIDTH: 80%
+}
+#config__manager {
+	MARGIN: 1em
+}
+#config__manager DIV.success {
+	PADDING-RIGHT: 0.5em; BACKGROUND-POSITION: 0.5em 50%; PADDING-LEFT: =
+0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; TEXT-ALIGN: center
+}
+#config__manager DIV.error {
+	PADDING-RIGHT: 0.5em; BACKGROUND-POSITION: 0.5em 50%; PADDING-LEFT: =
+0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; TEXT-ALIGN: center
+}
+#config__manager DIV.info {
+	PADDING-RIGHT: 0.5em; BACKGROUND-POSITION: 0.5em 50%; PADDING-LEFT: =
+0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; TEXT-ALIGN: center
+}
+#config__manager FORM {
+=09
+}
+#config__manager TABLE {
+	MARGIN: 1em 0px
+}
+#config__manager TD INPUT.edit {
+	WIDTH: 30em
+}
+#config__manager TD SELECT.edit {
+=09
+}
+#config__manager TD TEXTAREA.edit {
+	WIDTH: 27.5em; HEIGHT: 4em
+}
+#config__manager TR.default .input {
+	BACKGROUND-COLOR: #ccddff
+}
+#config__manager TR.default INPUT {
+	BACKGROUND-COLOR: #ccddff
+}
+#config__manager TR.default TEXTAREA {
+	BACKGROUND-COLOR: #ccddff
+}
+#config__manager TR.default SELECT {
+	BACKGROUND-COLOR: #ccddff
+}
+#config__manager TR.protected .input {
+	BACKGROUND-COLOR: #ffcccc
+}
+#config__manager TR.protected INPUT {
+	BACKGROUND-COLOR: #ffcccc
+}
+#config__manager TR.default TEXTAREA {
+	BACKGROUND-COLOR: #ffcccc
+}
+#config__manager TR.protected SELECT {
+	BACKGROUND-COLOR: #ffcccc
+}
+#config__manager TD.error {
+	BACKGROUND-COLOR: red
+}
+#plugin__manager {
+=09
+}
+#plugin__manager H2 {
+	MARGIN-LEFT: 0px
+}
+#plugin__manager FORM {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: =
+0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#plugin__manager LEGEND {
+	DISPLAY: none
+}
+#plugin__manager FIELDSET {
+	WIDTH: auto
+}
+#plugin__manager .button {
+	MARGIN: 0px
+}
+#plugin__manager P {
+	TEXT-ALIGN: left
+}
+#plugin__manager LABEL {
+	TEXT-ALIGN: left
+}
+#plugin__manager .hidden {
+	DISPLAY: none
+}
+#plugin__manager .new {
+	BACKGROUND: #dee7ec
+}
+#plugin__manager INPUT[disabled] {
+	BORDER-LEFT-COLOR: #ccc; BORDER-BOTTOM-COLOR: #ccc; COLOR: #ccc; =
+BORDER-TOP-COLOR: #ccc; BORDER-RIGHT-COLOR: #ccc
+}
+#plugin__manager .pm_menu {
+	MARGIN-LEFT: 0px; TEXT-ALIGN: left
+}
+#plugin__manager .pm_info {
+	MARGIN-LEFT: 0px; TEXT-ALIGN: left
+}
+#plugin__manager .pm_menu {
+	FLOAT: left; WIDTH: 48%
+}
+#plugin__manager .pm_info {
+	FLOAT: right; WIDTH: 50%
+}
+#plugin__manager .common {
+=09
+}
+#plugin__manager .common FORM {
+=09
+}
+#plugin__manager .common FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; MARGIN: =
+0px; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; =
+BORDER-LEFT-STYLE: none; TEXT-ALIGN: left; BORDER-BOTTOM-STYLE: none
+}
+#plugin__manager .common LABEL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.5em; =
+PADDING-TOP: 0px
+}
+#plugin__manager .common INPUT {
+=09
+}
+#plugin__manager .common INPUT.edit {
+	MARGIN: 0.5em; WIDTH: 24em
+}
+#plugin__manager .common .button {
+=09
+}
+#plugin__manager .plugins {
+=09
+}
+#plugin__manager .plugins FORM {
+=09
+}
+#plugin__manager .plugins FIELDSET {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; TEXT-ALIGN: right; =
+BORDER-RIGHT-WIDTH: 0px
+}
+#plugin__manager .plugins .legend {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 1em; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; =
+COLOR: black; LINE-HEIGHT: 1.4em; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+#plugin__manager .plugins .button {
+	FONT-SIZE: 95%; WIDTH: 5em
+}
+#plugin__manager .pm_info H3 {
+	MARGIN-LEFT: 0px
+}
+#plugin__manager .pm_info DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 1em =
+0px; PADDING-TOP: 0px
+}
+#plugin__manager .pm_info DT {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; =
+PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 6em; PADDING-TOP: 0px
+}
+#plugin__manager .pm_info DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px =
+0px 0px 7em; PADDING-TOP: 0px
+}
+TR.disabled {
+	BACKGROUND: #e4e4e4; COLOR: #6f6f6f
+}
+TR.user_info {
+	VERTICAL-ALIGN: top
+}
+DIV.edit_user {
+	FLOAT: left; WIDTH: 46%
+}
+INPUT[disabled].button {
+	BORDER-LEFT-COLOR: #ccc! important; BORDER-BOTTOM-COLOR: #ccc! =
+important; COLOR: #ccc! important; BORDER-TOP-COLOR: #ccc! important; =
+BORDER-RIGHT-COLOR: #ccc! important
+}
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/css.php?print=1
+
+A.interwiki {
+	PADDING-LEFT: 16px; BACKGROUND: =
+url(/courses/NLP/lib/images/interwiki.png) no-repeat 0px 1px
+}
+A.iw_wp {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/wp.gif)
+}
+A.iw_wpde {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/wpde.gif)
+}
+A.iw_wpmeta {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/wpmeta.gif)
+}
+A.iw_doku {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/doku.gif)
+}
+A.iw_sb {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/sb.gif)
+}
+A.iw_amazon {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/amazon.gif)
+}
+A.iw_amazon_de {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/amazon.de.gif)
+}
+A.iw_amazon_uk {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/amazon.uk.gif)
+}
+A.iw_phpfn {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/phpfn.gif)
+}
+A.iw_bug {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/bug.gif)
+}
+A.iw_coral {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/coral.gif)
+}
+A.iw_google {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/google.gif)
+}
+A.iw_meatball {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/meatball.gif)
+}
+A.iw_wiki {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/interwiki/wiki.gif)
+}
+A.mediafile {
+	PADDING-LEFT: 16px; BACKGROUND: =
+url(/courses/NLP/lib/images/fileicons/file.png) no-repeat 0px 1px
+}
+A.mf_tgz {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/tgz.png)
+}
+A.mf_gz {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/gz.png)
+}
+A.mf_zip {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/zip.png)
+}
+A.mf_pdf {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/pdf.png)
+}
+A.mf_txt {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/txt.png)
+}
+A.mf_html {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/html.png)
+}
+A.mf_htm {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/htm.png)
+}
+A.mf_ps {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/ps.png)
+}
+A.mf_doc {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/doc.png)
+}
+A.mf_xls {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/xls.png)
+}
+A.mf_ppt {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/ppt.png)
+}
+A.mf_rtf {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/rtf.png)
+}
+A.mf_xml {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/xml.png)
+}
+A.mf_rpm {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/rpm.png)
+}
+A.mf_deb {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/deb.png)
+}
+A.mf_conf {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/conf.png)
+}
+A.mf_sxw {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/sxw.png)
+}
+A.mf_sxc {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/sxc.png)
+}
+A.mf_sxi {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/sxi.png)
+}
+A.mf_sxd {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/sxd.png)
+}
+A.mf_odc {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odc.png)
+}
+A.mf_odf {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odf.png)
+}
+A.mf_odg {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odg.png)
+}
+A.mf_odi {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odi.png)
+}
+A.mf_odp {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odp.png)
+}
+A.mf_ods {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/ods.png)
+}
+A.mf_odt {
+	BACKGROUND-IMAGE: url(/courses/NLP/lib/images/fileicons/odt.png)
+}
+BODY {
+	FONT: 10pt "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; COLOR: black; BACKGROUND-COLOR: white
+}
+TABLE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 100%; PADDING-BOTTOM: =
+0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+TH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+A {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #000000; =
+TEXT-DECORATION: none
+}
+DIV.meta {
+	CLEAR: both; MARGIN-TOP: 1em; FONT-SIZE: 70%; TEXT-ALIGN: right
+}
+DIV.breadcrumbs {
+	DISPLAY: none
+}
+DIV.secedit {
+	DISPLAY: none
+}
+A.urlextern:unknown {
+	FONT-SIZE: 90%; content: " [" attr(href) "]"
+}
+A.interwiki:unknown {
+	FONT-SIZE: 90%; content: " [" attr(href) "]"
+}
+A.mail:unknown {
+	FONT-SIZE: 90%; content: " [" attr(href) "]"
+}
+A.wikilink1 {
+	TEXT-DECORATION: underline
+}
+DIV.page {
+	TEXT-ALIGN: justify
+}
+H1 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #000000 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+H2 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #000000 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+H3 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #000000 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+H4 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #000000 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+H5 {
+	CLEAR: left; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: =
+normal; FONT-SIZE: 100%; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em; =
+COLOR: black; PADDING-TOP: 0.5em; BORDER-BOTTOM: #000000 1px solid; =
+FONT-FAMILY: "Lucida Grande", Verdana, Lucida, Helvetica, Arial, =
+sans-serif; BACKGROUND-COLOR: transparent
+}
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 160%
+}
+H2 {
+	FONT-SIZE: 150%
+}
+H3 {
+	FONT-SIZE: 140%; BORDER-BOTTOM-STYLE: none
+}
+H4 {
+	FONT-SIZE: 120%; BORDER-BOTTOM-STYLE: none
+}
+H5 {
+	FONT-SIZE: 100%; BORDER-BOTTOM-STYLE: none
+}
+IMG.media {
+	MARGIN: 3px
+}
+IMG.medialeft {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: left; =
+BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 1.5em 0px 0px; BORDER-RIGHT-WIDTH: =
+0px
+}
+IMG.mediaright {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; FLOAT: right; =
+BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px 0px 0px 1.5em; BORDER-RIGHT-WIDTH: =
+0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px =
+0px 1em 1.5em; LINE-HEIGHT: 1.5em; PADDING-TOP: 0px; LIST-STYLE-TYPE: =
+square
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; =
+PADDING-BOTTOM: 0px; MARGIN: 0px 0px 1em 1em; LINE-HEIGHT: 1em; =
+PADDING-TOP: 0px
+}
+SPAN.li {
+	FONT-WEIGHT: normal
+}
+PRE.pre {
+	BORDER-RIGHT: #000000 1px dashed; PADDING-RIGHT: 0.5em; BORDER-TOP: =
+#000000 1px dashed; PADDING-LEFT: 0.5em; FONT-SIZE: 8pt; PADDING-BOTTOM: =
+0.5em; OVERFLOW: visible; BORDER-LEFT: #000000 1px dashed; COLOR: black; =
+PADDING-TOP: 0.5em; BORDER-BOTTOM: #000000 1px dashed
+}
+PRE.code {
+	BORDER-RIGHT: #000000 1px dashed; PADDING-RIGHT: 0.5em; BORDER-TOP: =
+#000000 1px dashed; PADDING-LEFT: 0.5em; FONT-SIZE: 8pt; PADDING-BOTTOM: =
+0.5em; OVERFLOW: visible; BORDER-LEFT: #000000 1px dashed; COLOR: black; =
+PADDING-TOP: 0.5em; BORDER-BOTTOM: #000000 1px dashed
+}
+CODE {
+	FONT-SIZE: 120%
+}
+PRE.file {
+	BORDER-RIGHT: #000000 1px dotted; PADDING-RIGHT: 0.5em; BORDER-TOP: =
+#000000 1px dotted; PADDING-LEFT: 0.5em; FONT-SIZE: 8pt; PADDING-BOTTOM: =
+0.5em; OVERFLOW: visible; BORDER-LEFT: #000000 1px dotted; COLOR: black; =
+PADDING-TOP: 0.5em; BORDER-BOTTOM: #000000 1px dotted
+}
+DIV.footnotes {
+	CLEAR: both; BORDER-TOP: #000000 1px solid; MARGIN-TOP: 1em; =
+PADDING-LEFT: 1em
+}
+DIV.fn {
+	FONT-SIZE: 90%
+}
+A.fn_top {
+	FONT-SIZE: 80%; VERTICAL-ALIGN: super
+}
+A.fn_bot {
+	FONT-WEIGHT: bold; FONT-SIZE: 80%; VERTICAL-ALIGN: super
+}
+ACRONYM {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.inline {
+	FONT-SIZE: 80%; BORDER-COLLAPSE: collapse; BACKGROUND-COLOR: #ffffff; =
+border-spacing: 0px
+}
+TABLE.inline TH {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#000000 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: =
+#000000 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #000000 2px solid
+}
+TABLE.inline TD {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#000000 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: =
+#000000 1px solid; PADDING-TOP: 3px; BORDER-BOTTOM: #000000 1px solid
+}
+.leftalign {
+	TEXT-ALIGN: left
+}
+.centeralign {
+	TEXT-ALIGN: center
+}
+.rightalign {
+	TEXT-ALIGN: right
+}
+.toc {
+	DISPLAY: none
+}
+.footerinc {
+	DISPLAY: none
+}
+.header {
+	DISPLAY: none
+}
+.bar {
+	DISPLAY: none
+}
+.user {
+	DISPLAY: none
+}
+#sidebar {
+	DISPLAY: none
+}
+
+------=_NextPart_000_0000_01C95EDA.4FFCF870
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://nlg.csie.ntu.edu.tw/courses/NLP/lib/exe/js.php?edit=0&write=0
+
+var alertText   =3D 'Please enter the text you want to format.\nIt will =
+be appended to the end of the document.';var notSavedYet =3D 'Unsaved =
+changes will be lost.\nReally continue?';var reallyDel   =3D 'Really =
+delete selected item(s)?';var DOKU_BASE   =3D '/courses/NLP/';// written =
+by Dean Edwards, 2005
+// with input from Tino Zijdel
+
+// http://dean.edwards.name/weblog/2005/10/add-event/
+
+function addEvent(element, type, handler) {
+	// assign each event handler a unique ID
+	if (!handler.$$guid) handler.$$guid =3D addEvent.guid++;
+	// create a hash table of event types for the element
+	if (!element.events) element.events =3D {};
+	// create a hash table of event handlers for each element/event pair
+	var handlers =3D element.events[type];
+	if (!handlers) {
+		handlers =3D element.events[type] =3D {};
+		// store the existing event handler (if there is one)
+		if (element["on" + type]) {
+			handlers[0] =3D element["on" + type];
+		}
+	}
+	// store the event handler in the hash table
+	handlers[handler.$$guid] =3D handler;
+	// assign a global event handler to do all the work
+	element["on" + type] =3D handleEvent;
+};
+// a counter used to create unique IDs
+addEvent.guid =3D 1;
+
+function removeEvent(element, type, handler) {
+	// delete the event handler from the hash table
+	if (element.events && element.events[type]) {
+		delete element.events[type][handler.$$guid];
+	}
+};
+
+function handleEvent(event) {
+	var returnValue =3D true;
+	// grab the event object (IE uses a global event object)
+	event =3D event || fixEvent(window.event);
+	// get a reference to the hash table of event handlers
+	var handlers =3D this.events[event.type];
+	// execute each event handler
+	for (var i in handlers) {
+		this.$$handleEvent =3D handlers[i];
+		if (this.$$handleEvent(event) =3D=3D=3D false) {
+			returnValue =3D false;
+		}
+	}
+	return returnValue;
+};
+
+function fixEvent(event) {
+	// add W3C standard event methods
+	event.preventDefault =3D fixEvent.preventDefault;
+	event.stopPropagation =3D fixEvent.stopPropagation;
+	return event;
+};
+fixEvent.preventDefault =3D function() {
+	this.returnValue =3D false;
+};
+fixEvent.stopPropagation =3D function() {
+	this.cancelBubble =3D true;
+};
+
+
+/**
+ * Pseudo event handler to be fired after the DOM was parsed or
+ * on window load at last.
+ *
+ * @author based upon some code by Dean Edwards
+ * @author Andreas Gohr
+ * @see    http://dean.edwards.name/weblog/2005/09/busted/
+ */
+window.fireoninit =3D function() {
+  // quit if this function has already been called
+  if (arguments.callee.done) return;
+  // flag this function so we don't do the same thing twice
+  arguments.callee.done =3D true;
+
+	if (typeof window.oninit =3D=3D 'function') {
+		window.oninit();
+  }
+};
+
+/**
+ * This is a pseudo Event that will be fired by the above function
+ *
+ * Use addInitEvent to bind to this event!
+ *
+ * @author Andreas Gohr
+ */
+window.oninit =3D function(){};
+
+/**
+ * Bind a function to the window.init pseudo event
+ *
+ * @author Simon Willison
+ * @see http://simon.incutio.com/archive/2004/05/26/addLoadEvent
+ */
+function addInitEvent(func) {
+  var oldoninit =3D window.oninit;
+  if (typeof window.oninit !=3D 'function') {
+    window.oninit =3D func;
+  } else {
+    window.oninit =3D function() {
+      oldoninit();
+      func();
+    };
+  }
+}
+
+
+/**=0A=
+ * Some of these scripts were taken from wikipedia.org and were modified =
+for DokuWiki=0A=
+ */=0A=
+=0A=
+/**=0A=
+ * Some browser detection=0A=
+ */=0A=
+var clientPC  =3D navigator.userAgent.toLowerCase(); // Get client info=0A=
+var is_gecko  =3D ((clientPC.indexOf('gecko')!=3D-1) && =
+(clientPC.indexOf('spoofer')=3D=3D-1) &&=0A=
+                (clientPC.indexOf('khtml') =3D=3D -1) && =
+(clientPC.indexOf('netscape/7.0')=3D=3D-1));=0A=
+var is_safari =3D ((clientPC.indexOf('AppleWebKit')!=3D-1) && =
+(clientPC.indexOf('spoofer')=3D=3D-1));=0A=
+var is_khtml  =3D (navigator.vendor =3D=3D 'KDE' || ( =
+document.childNodes && !document.all && !navigator.taintEnabled ));=0A=
+if (clientPC.indexOf('opera')!=3D-1) {=0A=
+    var is_opera =3D true;=0A=
+    var is_opera_preseven =3D (window.opera && !document.childNodes);=0A=
+    var is_opera_seven =3D (window.opera && document.childNodes);=0A=
+}=0A=
+=0A=
+/**=0A=
+ * Handy shortcut to document.getElementById=0A=
+ *=0A=
+ * This function was taken from the prototype library=0A=
+ *=0A=
+ * @link http://prototype.conio.net/=0A=
+ */=0A=
+function $() {=0A=
+  var elements =3D new Array();=0A=
+=0A=
+  for (var i =3D 0; i < arguments.length; i++) {=0A=
+    var element =3D arguments[i];=0A=
+    if (typeof element =3D=3D 'string')=0A=
+      element =3D document.getElementById(element);=0A=
+=0A=
+    if (arguments.length =3D=3D 1)=0A=
+      return element;=0A=
+=0A=
+    elements.push(element);=0A=
+  }=0A=
+=0A=
+  return elements;=0A=
+}=0A=
+=0A=
+/**=0A=
+ * Get the X offset of the top left corner of the given object=0A=
+ *=0A=
+ * @link http://www.quirksmode.org/index.html?/js/findpos.html=0A=
+ */=0A=
+function findPosX(object){=0A=
+  var curleft =3D 0;=0A=
+  var obj =3D $(object);=0A=
+  if (obj.offsetParent){=0A=
+    while (obj.offsetParent){=0A=
+      curleft +=3D obj.offsetLeft;=0A=
+      obj =3D obj.offsetParent;=0A=
+    }=0A=
+  }=0A=
+  else if (obj.x){=0A=
+    curleft +=3D obj.x;=0A=
+  }=0A=
+  return curleft;=0A=
+} //end findPosX function=0A=
+=0A=
+/**=0A=
+ * Get the Y offset of the top left corner of the given object=0A=
+ *=0A=
+ * @link http://www.quirksmode.org/index.html?/js/findpos.html=0A=
+ */=0A=
+function findPosY(object){=0A=
+  var curtop =3D 0;=0A=
+  var obj =3D $(object);=0A=
+  if (obj.offsetParent){=0A=
+    while (obj.offsetParent){=0A=
+      curtop +=3D obj.offsetTop;=0A=
+      obj =3D obj.offsetParent;=0A=
+    }=0A=
+  }=0A=
+  else if (obj.y){=0A=
+    curtop +=3D obj.y;=0A=
+  }=0A=
+  return curtop;=0A=
+} //end findPosY function=0A=
+=0A=
+/**=0A=
+ * Escape special chars in JavaScript=0A=
+ *=0A=
+ * @author Andreas Gohr <andi@splitbrain.org>=0A=
+ */=0A=
+function jsEscape(text){=0A=
+    var re=3Dnew RegExp("\\\\","g");=0A=
+    text=3Dtext.replace(re,"\\\\");=0A=
+    re=3Dnew RegExp("'","g");=0A=
+    text=3Dtext.replace(re,"\\'");=0A=
+    re=3Dnew RegExp('"',"g");=0A=
+    text=3Dtext.replace(re,'&quot;');=0A=
+    re=3Dnew RegExp("\\\\\\\\n","g");=0A=
+    text=3Dtext.replace(re,"\\n");=0A=
+    return text;=0A=
+}=0A=
+=0A=
+/**=0A=
+ * This function escapes some special chars=0A=
+ * @deprecated by above function=0A=
+ */=0A=
+function escapeQuotes(text) {=0A=
+  var re=3Dnew RegExp("'","g");=0A=
+  text=3Dtext.replace(re,"\\'");=0A=
+  re=3Dnew RegExp('"',"g");=0A=
+  text=3Dtext.replace(re,'&quot;');=0A=
+  re=3Dnew RegExp("\\n","g");=0A=
+  text=3Dtext.replace(re,"\\n");=0A=
+  return text;=0A=
+}=0A=
+=0A=
+/**=0A=
+ * Adds a node as the first childenode to the given parent=0A=
+ *=0A=
+ * @see appendChild()=0A=
+ */=0A=
+function prependChild(parent,element) {=0A=
+    if(!parent.firstChild){=0A=
+        parent.appendChild(element);=0A=
+    }else{=0A=
+        parent.insertBefore(element,parent.firstChild);=0A=
+    }=0A=
+}=0A=
+=0A=
+/**=0A=
+ * Prints a animated gif to show the search is performed=0A=
+ *=0A=
+ * @author Andreas Gohr <andi@splitbrain.org>=0A=
+ */=0A=
+function showLoadBar(id){=0A=
+  obj =3D $(id);=0A=
+=0A=
+  if(obj){=0A=
+    obj.innerHTML =3D '<img src=3D"'+DOKU_BASE+'lib/images/loading.gif" =
+'+=0A=
+                    'width=3D"150" height=3D"12" alt=3D"..." />';=0A=
+    obj.style.display=3D"block";=0A=
+  }=0A=
+}=0A=
+=0A=
+/**=0A=
+ * Disables the animated gif to show the search is done=0A=
+ *=0A=
+ * @author Andreas Gohr <andi@splitbrain.org>=0A=
+ */=0A=
+function hideLoadBar(id){=0A=
+  obj =3D $(id);=0A=
+  if(obj) obj.style.display=3D"none";=0A=
+}=0A=
+=0A=
+/*=0A=
+ * Insert the selected filename and close the window=0A=
+ *=0A=
+ * @see =
+http://www.alexking.org/index.php?content=3Dsoftware/javascript/content.p=
+hp=0A=
+ */=0A=
+function mediaSelect(file){=0A=
+  opener.insertTags('wiki__text','{{'+file+'|','}}',file);=0A=
+  window.close();=0A=
+}=0A=
+=0A=
+/**=0A=
+ * For the upload Dialog. Prefills the wikiname.=0A=
+ */=0A=
+function suggestWikiname(){=0A=
+  var file =3D document.upload.upload.value;=0A=
+=0A=
+  file =3D file.substr(file.lastIndexOf('/')+1);=0A=
+  file =3D file.substr(file.lastIndexOf('\\')+1);=0A=
+=0A=
+  document.upload.id.value =3D file;=0A=
+}=0A=
+=0A=
+/**=0A=
+ * Adds the toggle switch to the TOC=0A=
+ */=0A=
+function addTocToggle() {=0A=
+    if(!document.getElementById) return;=0A=
+    var header =3D $('toc__header');=0A=
+  if(!header) return;=0A=
+=0A=
+  var showimg     =3D document.createElement('img');=0A=
+    showimg.id      =3D 'toc__show';=0A=
+  showimg.src     =3D DOKU_BASE+'lib/images/arrow_down.gif';=0A=
+  showimg.alt     =3D '+';=0A=
+    showimg.onclick =3D toggleToc;=0A=
+  showimg.style.display =3D 'none';=0A=
+=0A=
+    var hideimg     =3D document.createElement('img');=0A=
+    hideimg.id      =3D 'toc__hide';=0A=
+  hideimg.src     =3D DOKU_BASE+'lib/images/arrow_up.gif';=0A=
+  hideimg.alt     =3D '-';=0A=
+    hideimg.onclick =3D toggleToc;=0A=
+=0A=
+  prependChild(header,showimg);=0A=
+  prependChild(header,hideimg);=0A=
+}=0A=
+=0A=
+/**=0A=
+ * This toggles the visibility of the Table of Contents=0A=
+ */=0A=
+function toggleToc() {=0A=
+  var toc =3D $('toc__inside');=0A=
+  var showimg =3D $('toc__show');=0A=
+  var hideimg =3D $('toc__hide');=0A=
+  if(toc.style.display =3D=3D 'none') {=0A=
+    toc.style.display      =3D '';=0A=
+    hideimg.style.display =3D '';=0A=
+    showimg.style.display =3D 'none';=0A=
+  } else {=0A=
+    toc.style.display      =3D 'none';=0A=
+    hideimg.style.display =3D 'none';=0A=
+    showimg.style.display =3D '';=0A=
+  }=0A=
+}=0A=
+=0A=
+/*=0A=
+ * This sets a cookie by JavaScript=0A=
+ *=0A=
+ * @see http://www.webreference.com/js/column8/functions.html=0A=
+ */=0A=
+function setCookie(name, value, expires, path, domain, secure) {=0A=
+  var curCookie =3D name + "=3D" + escape(value) +=0A=
+      ((expires) ? "; expires=3D" + expires.toGMTString() : "") +=0A=
+      ((path) ? "; path=3D" + path : "") +=0A=
+      ((domain) ? "; domain=3D" + domain : "") +=0A=
+      ((secure) ? "; secure" : "");=0A=
+  document.cookie =3D curCookie;=0A=
+}=0A=
+=0A=
+/*=0A=
+ * This reads a cookie by JavaScript=0A=
+ *=0A=
+ * @see http://www.webreference.com/js/column8/functions.html=0A=
+ */=0A=
+function getCookie(name) {=0A=
+  var dc =3D document.cookie;=0A=
+  var prefix =3D name + "=3D";=0A=
+  var begin =3D dc.indexOf("; " + prefix);=0A=
+  if (begin =3D=3D -1) {=0A=
+    begin =3D dc.indexOf(prefix);=0A=
+    if (begin !=3D=3D 0){ return null; }=0A=
+  } else {=0A=
+    begin +=3D 2;=0A=
+  }=0A=
+  var end =3D document.cookie.indexOf(";", begin);=0A=
+  if (end =3D=3D -1){=0A=
+    end =3D dc.length;=0A=
+  }=0A=
+  return unescape(dc.substring(begin + prefix.length, end));=0A=
+}=0A=
+=0A=
+/*=0A=
+ * This is needed for the cookie functions=0A=
+ *=0A=
+ * @see http://www.webreference.com/js/column8/functions.html=0A=
+ */=0A=
+function fixDate(date) {=0A=
+  var base =3D new Date(0);=0A=
+  var skew =3D base.getTime();=0A=
+  if (skew > 0){=0A=
+    date.setTime(date.getTime() - skew);=0A=
+  }=0A=
+}=0A=
+=0A=
+/*=0A=
+ * This enables/disables checkboxes for acl-administration=0A=
+ *=0A=
+ * @author Frank Schubert <frank@schokilade.de>=0A=
+ */=0A=
+function checkAclLevel(){=0A=
+  if(document.getElementById) {=0A=
+    var scope =3D $('acl_scope').value;=0A=
+=0A=
+    //check for namespace=0A=
+    if( (scope.indexOf(":*") > 0) || (scope =3D=3D "*") ){=0A=
+      document.getElementsByName('acl_checkbox[4]')[0].disabled=3Dfalse;=0A=
+      document.getElementsByName('acl_checkbox[8]')[0].disabled=3Dfalse;=0A=
+    }else{=0A=
+      document.getElementsByName('acl_checkbox[4]')[0].checked=3Dfalse;=0A=
+      document.getElementsByName('acl_checkbox[8]')[0].checked=3Dfalse;=0A=
+=0A=
+      document.getElementsByName('acl_checkbox[4]')[0].disabled=3Dtrue;=0A=
+      document.getElementsByName('acl_checkbox[8]')[0].disabled=3Dtrue;=0A=
+    }=0A=
+  }=0A=
+}=0A=
+=0A=
+/**=0A=
+ * insitu footnote addition=0A=
+ *=0A=
+ * provide a wrapper for domTT javascript library=0A=
+ * this function is placed in the onmouseover event of footnote =
+references in the main page=0A=
+ *=0A=
+ * @author Chris Smith <chris [at] jalakai [dot] co [dot] uk>=0A=
+ */=0A=
+var currentFootnote =3D 0;=0A=
+function fnt(id, e, evt) {=0A=
+=0A=
+    if (currentFootnote && id !=3D currentFootnote) {=0A=
+        domTT_close($('insitu__fn'+currentFootnote));=0A=
+    }=0A=
+=0A=
+    // does the footnote tooltip already exist?=0A=
+    var fnote =3D $('insitu__fn'+id);=0A=
+    var footnote;=0A=
+    if (!fnote) {=0A=
+        // if not create it...=0A=
+=0A=
+        // locate the footnote anchor element=0A=
+        var a =3D $( "fn__"+id );=0A=
+        if (!a){ return; }=0A=
+=0A=
+        // anchor parent is the footnote container, get its innerHTML=0A=
+        footnote =3D new String (a.parentNode.innerHTML);=0A=
+=0A=
+        // strip the leading footnote anchors and their comma separators=0A=
+        footnote =3D =
+footnote.replace(/<a\s.*?href=3D\".*\#fnt__\d+\".*?<\/a>/gi, '');=0A=
+        footnote =3D footnote.replace(/^\s+(,\s+)+/,'');=0A=
+=0A=
+        // prefix ids on any elements with "insitu__" to ensure they =
+remain unique=0A=
+        footnote =3D =
+footnote.replace(/\bid=3D\"(.*?)\"/gi,'id=3D"insitu__$1');=0A=
+    } else {=0A=
+        footnote =3D new String(fnt.innerHTML);=0A=
+    }=0A=
+=0A=
+    // activate the tooltip=0A=
+    domTT_activate(e, evt, 'content', footnote, 'type', 'velcro', 'id', =
+'insitu__fn'+id, 'styleClass', 'insitu-footnote JSpopup', 'maxWidth', =
+document.body.offsetWidth*0.4);=0A=
+    currentFootnote =3D id;=0A=
+}=0A=
+=0A=
+=0A=
+/**=0A=
+ * Add the edit window size controls=0A=
+ */=0A=
+function initSizeCtl(ctlid,edid){=0A=
+        if(!document.getElementById){ return; }=0A=
+=0A=
+    var ctl      =3D $(ctlid);=0A=
+    var textarea =3D $(edid);=0A=
+=0A=
+    var hgt =3D getCookie('DokuWikisizeCtl');=0A=
+    if(hgt =3D=3D=3D null || hgt =3D=3D=3D ''){=0A=
+      textarea.style.height =3D '300px';=0A=
+    }else{=0A=
+      textarea.style.height =3D hgt;=0A=
+    }=0A=
+=0A=
+    var l =3D document.createElement('img');=0A=
+    var s =3D document.createElement('img');=0A=
+    l.src =3D DOKU_BASE+'lib/images/larger.gif';=0A=
+    s.src =3D DOKU_BASE+'lib/images/smaller.gif';=0A=
+        addEvent(l,'click',function(){sizeCtl(edid,100);});=0A=
+        addEvent(s,'click',function(){sizeCtl(edid,-100);});=0A=
+    ctl.appendChild(l);=0A=
+    ctl.appendChild(s);=0A=
+}=0A=
+=0A=
+/**=0A=
+ * This sets the vertical size of the editbox=0A=
+ */=0A=
+function sizeCtl(edid,val){=0A=
+  var textarea =3D $(edid);=0A=
+  var height =3D =
+parseInt(textarea.style.height.substr(0,textarea.style.height.length-2));=0A=
+  height +=3D val;=0A=
+  textarea.style.height =3D height+'px';=0A=
+=0A=
+  var now =3D new Date();=0A=
+  fixDate(now);=0A=
+  now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000); //expire in a =
+year=0A=
+  setCookie('DokuWikisizeCtl',textarea.style.height,now);=0A=
+}=0A=
+=0A=
+/**=0A=
+ * Handler to close all open Popups=0A=
+ */=0A=
+function closePopups(){=0A=
+  if(!document.getElementById){ return; }=0A=
+=0A=
+  var divs =3D document.getElementsByTagName('div');=0A=
+  for(var i=3D0; i < divs.length; i++){=0A=
+    if(divs[i].className.indexOf('JSpopup') !=3D -1){=0A=
+            divs[i].style.display =3D 'none';=0A=
+    }=0A=
+  }=0A=
+}=0A=
+=0A=
+/**=0A=
+ * Looks for an element with the ID scroll__here at scrolls to it=0A=
+ */=0A=
+function scrollToMarker(){=0A=
+    var obj =3D $('scroll__here');=0A=
+    if(obj) obj.scrollIntoView();=0A=
+}=0A=
+/* Simple AJAX Code-Kit (SACK) */=0A=
+/* =C2=A92005 Gregory Wild-Smith */=0A=
+/* www.twilightuniverse.com */=0A=
+/* Software licenced under a modified X11 licence, see documentation or =
+authors website for more details */=0A=
+=0A=
+function sack(file){=0A=
+  this.AjaxFailedAlert =3D "Your browser does not support the enhanced =
+functionality of this website, and therefore you will have an experience =
+that differs from the intended one.\n";=0A=
+  this.requestFile =3D file;=0A=
+  this.method =3D "POST";=0A=
+  this.URLString =3D "";=0A=
+  this.encodeURIString =3D true;=0A=
+  this.execute =3D false;=0A=
+=0A=
+  this.onLoading =3D function() { };=0A=
+  this.onLoaded =3D function() { };=0A=
+  this.onInteractive =3D function() { };=0A=
+  this.onCompletion =3D function() { };=0A=
+=0A=
+  this.createAJAX =3D function() {=0A=
+    try {=0A=
+      this.xmlhttp =3D new ActiveXObject("Msxml2.XMLHTTP");=0A=
+    } catch (e) {=0A=
+      try {=0A=
+        this.xmlhttp =3D new ActiveXObject("Microsoft.XMLHTTP");=0A=
+      } catch (err) {=0A=
+        this.xmlhttp =3D null;=0A=
+      }=0A=
+    }=0A=
+    if(!this.xmlhttp && typeof XMLHttpRequest !=3D "undefined"){=0A=
+      this.xmlhttp =3D new XMLHttpRequest();=0A=
+    }=0A=
+    if (!this.xmlhttp){=0A=
+      this.failed =3D true; =0A=
+    }=0A=
+  };=0A=
+  =0A=
+  this.setVar =3D function(name, value){=0A=
+    if (this.URLString.length < 3){=0A=
+      this.URLString =3D name + "=3D" + value;=0A=
+    } else {=0A=
+      this.URLString +=3D "&" + name + "=3D" + value;=0A=
+    }=0A=
+  };=0A=
+  =0A=
+  this.encVar =3D function(name, value){=0A=
+    var varString =3D encodeURIComponent(name) + "=3D" + =
+encodeURIComponent(value);=0A=
+  return varString;=0A=
+  };=0A=
+  =0A=
+  this.encodeURLString =3D function(string){=0A=
+    varArray =3D string.split('&');=0A=
+    for (i =3D 0; i < varArray.length; i++){=0A=
+      urlVars =3D varArray[i].split('=3D');=0A=
+      if (urlVars[0].indexOf('amp;') !=3D -1){=0A=
+        urlVars[0] =3D urlVars[0].substring(4);=0A=
+      }=0A=
+      varArray[i] =3D this.encVar(urlVars[0],urlVars[1]);=0A=
+    }=0A=
+  return varArray.join('&');=0A=
+  };=0A=
+  =0A=
+  this.runResponse =3D function(){=0A=
+    eval(this.response);=0A=
+  };=0A=
+  =0A=
+  this.runAJAX =3D function(urlstring){=0A=
+    this.responseStatus =3D new Array(2);=0A=
+    if(this.failed && this.AjaxFailedAlert){ =0A=
+      alert(this.AjaxFailedAlert); =0A=
+    } else {=0A=
+      if (urlstring){ =0A=
+        if (this.URLString.length){=0A=
+          this.URLString =3D this.URLString + "&" + urlstring; =0A=
+        } else {=0A=
+          this.URLString =3D urlstring; =0A=
+        }=0A=
+      }=0A=
+      if (this.encodeURIString){=0A=
+        var timeval =3D new Date().getTime(); =0A=
+        this.URLString =3D this.encodeURLString(this.URLString);=0A=
+        this.setVar("rndval", timeval);=0A=
+      }=0A=
+      if (this.element) { this.elementObj =3D =
+document.getElementById(this.element); }=0A=
+      if (this.xmlhttp) {=0A=
+        var self =3D this;=0A=
+        if (this.method =3D=3D "GET") {=0A=
+          var totalurlstring =3D this.requestFile + "?" + this.URLString;=0A=
+          this.xmlhttp.open(this.method, totalurlstring, true);=0A=
+        } else {=0A=
+          this.xmlhttp.open(this.method, this.requestFile, true);=0A=
+        }=0A=
+        if (this.method =3D=3D "POST"){=0A=
+          try {=0A=
+             =
+this.xmlhttp.setRequestHeader('Content-Type','application/x-www-form-urle=
+ncoded; charset=3DUTF-8');=0A=
+          } catch (e) {}=0A=
+        } =0A=
+=0A=
+        this.xmlhttp.onreadystatechange =3D function() {=0A=
+          switch (self.xmlhttp.readyState){=0A=
+            case 1:=0A=
+              self.onLoading();=0A=
+            break;=0A=
+            case 2:=0A=
+              self.onLoaded();=0A=
+            break;=0A=
+            case 3:=0A=
+              self.onInteractive();=0A=
+            break;=0A=
+            case 4:=0A=
+              self.response =3D self.xmlhttp.responseText;=0A=
+              self.responseXML =3D self.xmlhttp.responseXML;=0A=
+              self.responseStatus[0] =3D self.xmlhttp.status;=0A=
+              self.responseStatus[1] =3D self.xmlhttp.statusText;=0A=
+              self.onCompletion();=0A=
+              if(self.execute){ self.runResponse(); }=0A=
+              if (self.elementObj) {=0A=
+                var elemNodeName =3D self.elementObj.nodeName;=0A=
+                elemNodeName.toLowerCase();=0A=
+                if (elemNodeName =3D=3D "input" || elemNodeName =3D=3D =
+"select" || elemNodeName =3D=3D "option" || elemNodeName =3D=3D =
+"textarea"){=0A=
+                  self.elementObj.value =3D self.response;=0A=
+                } else {=0A=
+                  self.elementObj.innerHTML =3D self.response;=0A=
+                }=0A=
+              }=0A=
+              self.URLString =3D "";=0A=
+            break;=0A=
+          }=0A=
+        };=0A=
+        this.xmlhttp.send(this.URLString);=0A=
+      }=0A=
+    }=0A=
+  };=0A=
+this.createAJAX();=0A=
+}=0A=
+/**=0A=
+ * AJAX functions for the pagename quicksearch=0A=
+ *=0A=
+ * We're using a global object with self referencing methods=0A=
+ * here to make callbacks work=0A=
+ *=0A=
+ * @license  GPL2 (http://www.gnu.org/licenses/gpl.html)=0A=
+ * @author   Andreas Gohr <andi@splitbrain.org>=0A=
+ */=0A=
+=0A=
+//prepare class=0A=
+function ajax_qsearch_class(){=0A=
+  this.sack =3D null;=0A=
+  this.inObj =3D null;=0A=
+  this.outObj =3D null;=0A=
+  this.timer =3D null;=0A=
+}=0A=
+=0A=
+//create global object and add functions=0A=
+var ajax_qsearch =3D new ajax_qsearch_class();=0A=
+ajax_qsearch.sack =3D new sack(DOKU_BASE + 'lib/exe/ajax.php');=0A=
+ajax_qsearch.sack.AjaxFailedAlert =3D '';=0A=
+ajax_qsearch.sack.encodeURIString =3D false;=0A=
+=0A=
+ajax_qsearch.init =3D function(inID,outID){=0A=
+  ajax_qsearch.inObj  =3D document.getElementById(inID);=0A=
+  ajax_qsearch.outObj =3D document.getElementById(outID);=0A=
+=0A=
+  // objects found?=0A=
+  if(ajax_qsearch.inObj =3D=3D=3D null){ return; }=0A=
+  if(ajax_qsearch.outObj =3D=3D=3D null){ return; }=0A=
+=0A=
+  // attach eventhandler to search field=0A=
+  addEvent(ajax_qsearch.inObj,'keyup',ajax_qsearch.call);=0A=
+=0A=
+  // attach eventhandler to output field=0A=
+  addEvent(ajax_qsearch.outObj,'click',function(){ =
+ajax_qsearch.outObj.style.display=3D'none'; });=0A=
+};=0A=
+=0A=
+ajax_qsearch.clear =3D function(){=0A=
+  ajax_qsearch.outObj.style.display =3D 'none';=0A=
+  ajax_qsearch.outObj.innerHTML =3D '';=0A=
+  if(ajax_qsearch.timer !=3D=3D null){=0A=
+    window.clearTimeout(ajax_qsearch.timer);=0A=
+    ajax_qsearch.timer =3D null;=0A=
+  }=0A=
+};=0A=
+=0A=
+ajax_qsearch.exec =3D function(){=0A=
+  ajax_qsearch.clear();=0A=
+  var value =3D ajax_qsearch.inObj.value;=0A=
+  if(value =3D=3D=3D ''){ return; }=0A=
+  ajax_qsearch.sack.runAJAX('call=3Dqsearch&q=3D'+encodeURI(value));=0A=
+};=0A=
+=0A=
+ajax_qsearch.sack.onCompletion =3D function(){=0A=
+  var data =3D ajax_qsearch.sack.response;=0A=
+  if(data =3D=3D=3D ''){ return; }=0A=
+=0A=
+  ajax_qsearch.outObj.innerHTML =3D data;=0A=
+  ajax_qsearch.outObj.style.display =3D 'block';=0A=
+};=0A=
+=0A=
+ajax_qsearch.call =3D function(){=0A=
+  ajax_qsearch.clear();=0A=
+  ajax_qsearch.timer =3D window.setTimeout("ajax_qsearch.exec()",500);=0A=
+};=0A=
+=0A=
+/** $Id: domLib.js 1952 2005-07-17 16:24:05Z dallen $ */=0A=
+// {{{ license=0A=
+=0A=
+/*=0A=
+ * Copyright 2002-2005 Dan Allen, Mojavelinux.com =
+(dan.allen@mojavelinux.com)=0A=
+ *=0A=
+ * Licensed under the Apache License, Version 2.0 (the "License");=0A=
+ * you may not use this file except in compliance with the License.=0A=
+ * You may obtain a copy of the License at=0A=
+ *=0A=
+ *      http://www.apache.org/licenses/LICENSE-2.0=0A=
+ *=0A=
+ * Unless required by applicable law or agreed to in writing, software=0A=
+ * distributed under the License is distributed on an "AS IS" BASIS,=0A=
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or =
+implied.=0A=
+ * See the License for the specific language governing permissions and=0A=
+ * limitations under the License.=0A=
+ */=0A=
+=0A=
+// }}}=0A=
+// {{{ intro=0A=
+=0A=
+/**=0A=
+ * Title: DOM Library Core=0A=
+ * Version: 0.70=0A=
+ *=0A=
+ * Summary:=0A=
+ * A set of commonly used functions that make it easier to create =
+javascript=0A=
+ * applications that rely on the DOM.=0A=
+ *=0A=
+ * Updated: 2005/05/17=0A=
+ *=0A=
+ * Maintainer: Dan Allen <dan.allen@mojavelinux.com>=0A=
+ * Maintainer: Jason Rust <jrust@rustyparts.com>=0A=
+ *=0A=
+ * License: Apache 2.0=0A=
+ */=0A=
+=0A=
+// }}}=0A=
+// {{{ global constants (DO NOT EDIT)=0A=
+=0A=
+// -- Browser Detection --=0A=
+var domLib_userAgent =3D navigator.userAgent.toLowerCase();=0A=
+var domLib_isMac =3D navigator.appVersion.indexOf('Mac') !=3D -1;=0A=
+var domLib_isWin =3D domLib_userAgent.indexOf('windows') !=3D -1;=0A=
+// NOTE: could use window.opera for detecting Opera=0A=
+var domLib_isOpera =3D domLib_userAgent.indexOf('opera') !=3D -1;=0A=
+var domLib_isOpera7up =3D domLib_userAgent.match(/opera.(7|8)/i);=0A=
+var domLib_isSafari =3D domLib_userAgent.indexOf('safari') !=3D -1;=0A=
+var domLib_isKonq =3D domLib_userAgent.indexOf('konqueror') !=3D -1;=0A=
+// Both konqueror and safari use the khtml rendering engine=0A=
+var domLib_isKHTML =3D (domLib_isKonq || domLib_isSafari || =
+domLib_userAgent.indexOf('khtml') !=3D -1);=0A=
+var domLib_isIE =3D (!domLib_isKHTML && !domLib_isOpera && =
+(domLib_userAgent.indexOf('msie 5') !=3D -1 || =
+domLib_userAgent.indexOf('msie 6') !=3D -1 || =
+domLib_userAgent.indexOf('msie 7') !=3D -1));=0A=
+var domLib_isIE5up =3D domLib_isIE;=0A=
+var domLib_isIE50 =3D (domLib_isIE && domLib_userAgent.indexOf('msie =
+5.0') !=3D -1);=0A=
+var domLib_isIE55 =3D (domLib_isIE && domLib_userAgent.indexOf('msie =
+5.5') !=3D -1);=0A=
+var domLib_isIE5 =3D (domLib_isIE50 || domLib_isIE55);=0A=
+// safari and konq may use string "khtml, like gecko", so check for =
+destinctive /=0A=
+var domLib_isGecko =3D domLib_userAgent.indexOf('gecko/') !=3D -1;=0A=
+var domLib_isMacIE =3D (domLib_isIE && domLib_isMac);=0A=
+var domLib_isIE55up =3D domLib_isIE5up && !domLib_isIE50 && =
+!domLib_isMacIE;=0A=
+var domLib_isIE6up =3D domLib_isIE55up && !domLib_isIE55;=0A=
+=0A=
+// -- Browser Abilities --=0A=
+var domLib_standardsMode =3D (document.compatMode && document.compatMode =
+=3D=3D 'CSS1Compat');=0A=
+var domLib_useLibrary =3D (domLib_isOpera7up || domLib_isKHTML || =
+domLib_isIE5up || domLib_isGecko || domLib_isMacIE || =
+document.defaultView);=0A=
+// fixed in Konq3.2=0A=
+var domLib_hasBrokenTimeout =3D (domLib_isMacIE || (domLib_isKonq && =
+domLib_userAgent.match(/konqueror\/3.([2-9])/) =3D=3D=3D null));=0A=
+var domLib_canFade =3D (domLib_isGecko || domLib_isIE || domLib_isSafari =
+|| domLib_isOpera);=0A=
+var domLib_canDrawOverSelect =3D (domLib_isMac || domLib_isOpera || =
+domLib_isGecko);=0A=
+var domLib_canDrawOverFlash =3D (domLib_isMac || domLib_isWin);=0A=
+=0A=
+// -- Event Variables --=0A=
+var domLib_eventTarget =3D domLib_isIE ? 'srcElement' : 'currentTarget';=0A=
+var domLib_eventButton =3D domLib_isIE ? 'button' : 'which';=0A=
+var domLib_eventTo =3D domLib_isIE ? 'toElement' : 'relatedTarget';=0A=
+var domLib_stylePointer =3D domLib_isIE ? 'hand' : 'pointer';=0A=
+// NOTE: a bug exists in Opera that prevents maxWidth from being set to =
+'none', so we make it huge=0A=
+var domLib_styleNoMaxWidth =3D domLib_isOpera ? '10000px' : 'none';=0A=
+var domLib_hidePosition =3D '-1000px';=0A=
+var domLib_scrollbarWidth =3D 14;=0A=
+var domLib_autoId =3D 1;=0A=
+var domLib_zIndex =3D 100;=0A=
+=0A=
+// -- Detection --=0A=
+var domLib_collisionElements;=0A=
+var domLib_collisionsCached =3D false;=0A=
+=0A=
+var domLib_timeoutStateId =3D 0;=0A=
+var domLib_timeoutStates =3D new Hash();=0A=
+=0A=
+// }}}=0A=
+// {{{ DOM enhancements=0A=
+=0A=
+if (!document.ELEMENT_NODE)=0A=
+{=0A=
+	document.ELEMENT_NODE =3D 1;=0A=
+	document.ATTRIBUTE_NODE =3D 2;=0A=
+	document.TEXT_NODE =3D 3;=0A=
+	document.DOCUMENT_NODE =3D 9;=0A=
+	document.DOCUMENT_FRAGMENT_NODE =3D 11;=0A=
+}=0A=
+=0A=
+function domLib_clone(obj)=0A=
+{=0A=
+	var copy =3D {};=0A=
+	for (var i in obj)=0A=
+	{=0A=
+		var value =3D obj[i];=0A=
+		try=0A=
+		{=0A=
+			if (value !=3D=3D null && typeof(value) =3D=3D 'object' && value !=3D =
+window && !value.nodeType)=0A=
+			{=0A=
+				copy[i] =3D domLib_clone(value);=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				copy[i] =3D value;=0A=
+			}=0A=
+		}=0A=
+		catch(e)=0A=
+		{=0A=
+			copy[i] =3D value;=0A=
+		}=0A=
+	}=0A=
+=0A=
+	return copy;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ class Hash()=0A=
+=0A=
+function Hash()=0A=
+{=0A=
+	this.length =3D 0;=0A=
+	this.numericLength =3D 0; =0A=
+	this.elementData =3D [];=0A=
+	for (var i =3D 0; i < arguments.length; i +=3D 2)=0A=
+	{=0A=
+		if (typeof(arguments[i + 1]) !=3D 'undefined')=0A=
+		{=0A=
+			this.elementData[arguments[i]] =3D arguments[i + 1];=0A=
+			this.length++;=0A=
+			if (arguments[i] =3D=3D parseInt(arguments[i])) =0A=
+			{=0A=
+				this.numericLength++;=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+// using prototype as opposed to inner functions saves on memory =0A=
+Hash.prototype.get =3D function(in_key)=0A=
+{=0A=
+	return this.elementData[in_key];=0A=
+};=0A=
+=0A=
+Hash.prototype.set =3D function(in_key, in_value)=0A=
+{=0A=
+	if (typeof(in_value) !=3D 'undefined')=0A=
+	{=0A=
+		if (typeof(this.elementData[in_key]) =3D=3D 'undefined')=0A=
+		{=0A=
+			this.length++;=0A=
+			if (in_key =3D=3D parseInt(in_key)) =0A=
+			{=0A=
+				this.numericLength++;=0A=
+			}=0A=
+		}=0A=
+=0A=
+		this.elementData[in_key] =3D in_value;=0A=
+    return this.elementData[in_key];=0A=
+	}=0A=
+=0A=
+	return false;=0A=
+};=0A=
+=0A=
+Hash.prototype.remove =3D function(in_key)=0A=
+{=0A=
+	var tmp_value;=0A=
+	if (typeof(this.elementData[in_key]) !=3D 'undefined')=0A=
+	{=0A=
+		this.length--;=0A=
+		if (in_key =3D=3D parseInt(in_key)) =0A=
+		{=0A=
+			this.numericLength--;=0A=
+		}=0A=
+=0A=
+		tmp_value =3D this.elementData[in_key];=0A=
+		delete this.elementData[in_key];=0A=
+	}=0A=
+=0A=
+	return tmp_value;=0A=
+};=0A=
+=0A=
+Hash.prototype.size =3D function()=0A=
+{=0A=
+	return this.length;=0A=
+};=0A=
+=0A=
+Hash.prototype.has =3D function(in_key)=0A=
+{=0A=
+	return typeof(this.elementData[in_key]) !=3D 'undefined';=0A=
+};=0A=
+=0A=
+Hash.prototype.find =3D function(in_obj)=0A=
+{=0A=
+	for (var tmp_key in this.elementData) =0A=
+	{=0A=
+		if (this.elementData[tmp_key] =3D=3D in_obj) =0A=
+		{=0A=
+			return tmp_key;=0A=
+		}=0A=
+	}=0A=
+};=0A=
+=0A=
+Hash.prototype.merge =3D function(in_hash)=0A=
+{=0A=
+	for (var tmp_key in in_hash.elementData) =0A=
+	{=0A=
+		if (typeof(this.elementData[tmp_key]) =3D=3D 'undefined') =0A=
+		{=0A=
+			this.length++;=0A=
+			if (tmp_key =3D=3D parseInt(tmp_key)) =0A=
+			{=0A=
+				this.numericLength++;=0A=
+			}=0A=
+		}=0A=
+=0A=
+		this.elementData[tmp_key] =3D in_hash.elementData[tmp_key];=0A=
+	}=0A=
+};=0A=
+=0A=
+Hash.prototype.compare =3D function(in_hash)=0A=
+{=0A=
+	if (this.length !=3D in_hash.length) =0A=
+	{=0A=
+		return false;=0A=
+	}=0A=
+=0A=
+	for (var tmp_key in this.elementData) =0A=
+	{=0A=
+		if (this.elementData[tmp_key] !=3D in_hash.elementData[tmp_key]) =0A=
+		{=0A=
+			return false;=0A=
+		}=0A=
+	}=0A=
+	=0A=
+	return true;=0A=
+};=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_isDescendantOf()=0A=
+=0A=
+function domLib_isDescendantOf(in_object, in_ancestor)=0A=
+{=0A=
+	if (in_object =3D=3D in_ancestor)=0A=
+	{=0A=
+		return true;=0A=
+	}=0A=
+=0A=
+	while (in_object !=3D document.documentElement)=0A=
+	{=0A=
+		try=0A=
+		{=0A=
+			if ((tmp_object =3D in_object.offsetParent) && tmp_object =3D=3D =
+in_ancestor)=0A=
+			{=0A=
+				return true;=0A=
+			}=0A=
+			else if ((tmp_object =3D in_object.parentNode) =3D=3D in_ancestor)=0A=
+			{=0A=
+				return true;=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				in_object =3D tmp_object;=0A=
+			}=0A=
+		}=0A=
+		// in case we get some wierd error, just assume we haven't gone out yet=0A=
+		catch(e)=0A=
+		{=0A=
+			return true;=0A=
+		}=0A=
+	}=0A=
+=0A=
+	return false;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_detectCollisions()=0A=
+=0A=
+/**=0A=
+ * For any given target element, determine if elements on the page=0A=
+ * are colliding with it that do not obey the rules of z-index.=0A=
+ */=0A=
+function domLib_detectCollisions(in_object, in_recover, in_useCache)=0A=
+{=0A=
+	// the reason for the cache is that if the root menu is built before=0A=
+	// the page is done loading, then it might not find all the elements.=0A=
+	// so really the only time you don't use cache is when building the=0A=
+	// menu as part of the page load=0A=
+	if (!domLib_collisionsCached)=0A=
+	{=0A=
+		var tags =3D [];=0A=
+=0A=
+		if (!domLib_canDrawOverFlash)=0A=
+		{=0A=
+			tags[tags.length] =3D 'object';=0A=
+		}=0A=
+=0A=
+		if (!domLib_canDrawOverSelect)=0A=
+		{=0A=
+			tags[tags.length] =3D 'select';=0A=
+		}=0A=
+=0A=
+		domLib_collisionElements =3D domLib_getElementsByTagNames(tags, true);=0A=
+		domLib_collisionsCached =3D in_useCache;=0A=
+	}=0A=
+=0A=
+	// if we don't have a tip, then unhide selects=0A=
+	if (in_recover)=0A=
+	{=0A=
+		for (var cnt =3D 0; cnt < domLib_collisionElements.length; cnt++)=0A=
+		{=0A=
+			var thisElement =3D domLib_collisionElements[cnt];=0A=
+=0A=
+			if (!thisElement.hideList)=0A=
+			{=0A=
+				thisElement.hideList =3D new Hash();=0A=
+			}=0A=
+=0A=
+			thisElement.hideList.remove(in_object.id);=0A=
+			if (!thisElement.hideList.length)=0A=
+			{=0A=
+				domLib_collisionElements[cnt].style.visibility =3D 'visible';=0A=
+				if (domLib_isKonq)=0A=
+				{=0A=
+					domLib_collisionElements[cnt].style.display =3D '';=0A=
+				}=0A=
+			}=0A=
+		}=0A=
+=0A=
+		return;=0A=
+	}=0A=
+	else if (domLib_collisionElements.length =3D=3D=3D 0)=0A=
+	{=0A=
+		return;=0A=
+	}=0A=
+=0A=
+	// okay, we have a tip, so hunt and destroy=0A=
+	var objectOffsets =3D domLib_getOffsets(in_object);=0A=
+=0A=
+	for (cnt =3D 0; cnt < domLib_collisionElements.length; cnt++)=0A=
+	{=0A=
+		thisElement =3D domLib_collisionElements[cnt];=0A=
+=0A=
+		// if collision element is in active element, move on=0A=
+		// WARNING: is this too costly?=0A=
+		if (domLib_isDescendantOf(thisElement, in_object))=0A=
+		{=0A=
+			continue;=0A=
+		}=0A=
+=0A=
+		// konqueror only has trouble with multirow selects=0A=
+		if (domLib_isKonq &&=0A=
+			thisElement.tagName =3D=3D 'SELECT' &&=0A=
+			(thisElement.size <=3D 1 && !thisElement.multiple))=0A=
+		{=0A=
+			continue;=0A=
+		}=0A=
+=0A=
+		if (!thisElement.hideList)=0A=
+		{=0A=
+			thisElement.hideList =3D new Hash();=0A=
+		}=0A=
+=0A=
+		var selectOffsets =3D domLib_getOffsets(thisElement); =0A=
+		var center2centerDistance =3D =
+Math.sqrt(Math.pow(selectOffsets.get('leftCenter') - =
+objectOffsets.get('leftCenter'), 2) + =
+Math.pow(selectOffsets.get('topCenter') - =
+objectOffsets.get('topCenter'), 2));=0A=
+		var radiusSum =3D selectOffsets.get('radius') + =
+objectOffsets.get('radius');=0A=
+		// the encompassing circles are overlapping, get in for a closer look=0A=
+		if (center2centerDistance < radiusSum)=0A=
+		{=0A=
+			// tip is left of select=0A=
+			if ((objectOffsets.get('leftCenter') <=3D =
+selectOffsets.get('leftCenter') && objectOffsets.get('right') < =
+selectOffsets.get('left')) ||=0A=
+			// tip is right of select=0A=
+				(objectOffsets.get('leftCenter') > selectOffsets.get('leftCenter') =
+&& objectOffsets.get('left') > selectOffsets.get('right')) ||=0A=
+			// tip is above select=0A=
+				(objectOffsets.get('topCenter') <=3D selectOffsets.get('topCenter') =
+&& objectOffsets.get('bottom') < selectOffsets.get('top')) ||=0A=
+			// tip is below select=0A=
+				(objectOffsets.get('topCenter') > selectOffsets.get('topCenter') && =
+objectOffsets.get('top') > selectOffsets.get('bottom')))=0A=
+			{=0A=
+				thisElement.hideList.remove(in_object.id);=0A=
+				if (!thisElement.hideList.length)=0A=
+				{=0A=
+					thisElement.style.visibility =3D 'visible';=0A=
+					if (domLib_isKonq)=0A=
+					{=0A=
+						thisElement.style.display =3D '';=0A=
+					}=0A=
+				}=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				thisElement.hideList.set(in_object.id, true);=0A=
+				thisElement.style.visibility =3D 'hidden';=0A=
+				if (domLib_isKonq)=0A=
+				{=0A=
+					thisElement.style.display =3D 'none';=0A=
+				}=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_getOffsets()=0A=
+=0A=
+function domLib_getOffsets(in_object)=0A=
+{=0A=
+	var originalObject =3D in_object;=0A=
+	var originalWidth =3D in_object.offsetWidth;=0A=
+	var originalHeight =3D in_object.offsetHeight;=0A=
+	var offsetLeft =3D 0;=0A=
+	var offsetTop =3D 0;=0A=
+=0A=
+	while (in_object)=0A=
+	{=0A=
+		offsetLeft +=3D in_object.offsetLeft;=0A=
+		offsetTop +=3D in_object.offsetTop;=0A=
+		in_object =3D in_object.offsetParent;=0A=
+	}=0A=
+=0A=
+	// MacIE misreports the offsets (even with margin: 0 in body{}), still =
+not perfect=0A=
+	if (domLib_isMacIE) {=0A=
+		offsetLeft +=3D 10;=0A=
+		offsetTop +=3D 10;=0A=
+	}=0A=
+=0A=
+	return new Hash(=0A=
+		'left',		offsetLeft,=0A=
+		'top',		offsetTop,=0A=
+		'right',	offsetLeft + originalWidth,=0A=
+		'bottom',	offsetTop + originalHeight,=0A=
+		'leftCenter',	offsetLeft + originalWidth/2,=0A=
+		'topCenter',	offsetTop + originalHeight/2,=0A=
+		'radius',	Math.max(originalWidth, originalHeight)	);=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_setTimeout()=0A=
+=0A=
+function domLib_setTimeout(in_function, in_timeout, in_args)=0A=
+{=0A=
+	if (typeof(in_args) =3D=3D 'undefined')=0A=
+	{=0A=
+		in_args =3D [];=0A=
+	}=0A=
+=0A=
+	if (in_timeout =3D=3D -1)=0A=
+	{=0A=
+		// timeout event is disabled=0A=
+		return;=0A=
+	}=0A=
+	else if (in_timeout =3D=3D=3D 0)=0A=
+	{=0A=
+		in_function(in_args);=0A=
+		return 0;=0A=
+	}=0A=
+=0A=
+	// must make a copy of the arguments so that we release the reference=0A=
+	var args =3D domLib_clone(in_args);=0A=
+=0A=
+	if (!domLib_hasBrokenTimeout)=0A=
+	{=0A=
+		return setTimeout(function() { in_function(args); }, in_timeout);=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		var id =3D domLib_timeoutStateId++;=0A=
+		var data =3D new Hash();=0A=
+		data.set('function', in_function);=0A=
+		data.set('args', args);=0A=
+		domLib_timeoutStates.set(id, data);=0A=
+=0A=
+		data.set('timeoutId', setTimeout('domLib_timeoutStates.get(' + id + =
+').get(\'function\')(domLib_timeoutStates.get(' + id + =
+').get(\'args\')); domLib_timeoutStates.remove(' + id + ');', =
+in_timeout));=0A=
+		return id;=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_clearTimeout()=0A=
+=0A=
+function domLib_clearTimeout(in_id)=0A=
+{=0A=
+	if (!domLib_hasBrokenTimeout)=0A=
+	{=0A=
+		clearTimeout(in_id);=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		if (domLib_timeoutStates.has(in_id))=0A=
+		{=0A=
+			clearTimeout(domLib_timeoutStates.get(in_id).get('timeoutId'));=0A=
+			domLib_timeoutStates.remove(in_id);=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_getEventPosition()=0A=
+=0A=
+function domLib_getEventPosition(in_eventObj)=0A=
+{=0A=
+	var eventPosition =3D new Hash('x', 0, 'y', 0, 'scrollX', 0, 'scrollY', =
+0);=0A=
+=0A=
+	// IE varies depending on standard compliance mode=0A=
+	if (domLib_isIE)=0A=
+	{=0A=
+		var doc =3D (domLib_standardsMode ? document.documentElement : =
+document.body);=0A=
+		// NOTE: events may fire before the body has been loaded=0A=
+		if (doc)=0A=
+		{=0A=
+			eventPosition.set('x', in_eventObj.clientX + doc.scrollLeft);=0A=
+			eventPosition.set('y', in_eventObj.clientY + doc.scrollTop);=0A=
+			eventPosition.set('scrollX', doc.scrollLeft);=0A=
+			eventPosition.set('scrollY', doc.scrollTop);=0A=
+		}=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		eventPosition.set('x', in_eventObj.pageX);=0A=
+		eventPosition.set('y', in_eventObj.pageY);=0A=
+		eventPosition.set('scrollX', in_eventObj.pageX - in_eventObj.clientX);=0A=
+		eventPosition.set('scrollY', in_eventObj.pageY - in_eventObj.clientY);=0A=
+	}=0A=
+=0A=
+	return eventPosition;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_cancelBubble()=0A=
+=0A=
+function domLib_cancelBubble(in_event)=0A=
+{=0A=
+	var eventObj =3D in_event ? in_event : window.event;=0A=
+	eventObj.cancelBubble =3D true;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_getIFrameReference()=0A=
+=0A=
+function domLib_getIFrameReference(in_frame)=0A=
+{=0A=
+	if (domLib_isGecko || domLib_isIE)=0A=
+	{=0A=
+		return in_frame.frameElement;=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		// we could either do it this way or require an id on the frame=0A=
+		// equivalent to the name=0A=
+		var name =3D in_frame.name;=0A=
+		if (!name || !in_frame.parent)=0A=
+		{=0A=
+			return;=0A=
+		}=0A=
+=0A=
+		var candidates =3D =
+in_frame.parent.document.getElementsByTagName('iframe');=0A=
+		for (var i =3D 0; i < candidates.length; i++)=0A=
+		{=0A=
+			if (candidates[i].name =3D=3D name)=0A=
+			{=0A=
+				return candidates[i];=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domLib_getElementsByClass()=0A=
+=0A=
+function domLib_getElementsByClass(in_class)=0A=
+{=0A=
+	var elements =3D domLib_isIE5 ? document.all : =
+document.getElementsByTagName('*');	=0A=
+	var matches =3D [];	=0A=
+	var cnt =3D 0;=0A=
+	for (var i =3D 0; i < elements.length; i++)=0A=
+	{=0A=
+		if ((" " + elements[i].className + " ").indexOf(" " + in_class + " ") =
+!=3D -1)=0A=
+		{=0A=
+			matches[cnt++] =3D elements[i];=0A=
+		}=0A=
+	}=0A=
+=0A=
+	return matches;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{=0A=
+=0A=
+function domLib_getElementsByTagNames(in_list, in_excludeHidden)=0A=
+{=0A=
+	var elements =3D [];=0A=
+	for (var i =3D 0; i < in_list.length; i++)=0A=
+	{=0A=
+		var matches =3D document.getElementsByTagName(in_list[i]);=0A=
+		for (var j =3D 0; j < matches.length; j++)=0A=
+		{=0A=
+			if (in_excludeHidden && domLib_getComputedStyle(matches[j], =
+'visibility') =3D=3D 'hidden')=0A=
+			{=0A=
+				continue;=0A=
+			}=0A=
+=0A=
+			elements[elements.length] =3D matches[j];	=0A=
+		}=0A=
+	}=0A=
+=0A=
+	return elements;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{=0A=
+=0A=
+function domLib_getComputedStyle(in_obj, in_property)=0A=
+{=0A=
+	if (domLib_isIE)=0A=
+	{=0A=
+		var humpBackProp =3D in_property.replace(/-(.)/, function (a, b) { =
+return b.toUpperCase(); });=0A=
+		return eval('in_obj.currentStyle.' + humpBackProp);=0A=
+	}=0A=
+	// getComputedStyle() is broken in konqueror, so let's go for the style =
+object=0A=
+	else if (domLib_isKonq)=0A=
+	{=0A=
+		humpBackProp =3D in_property.replace(/-(.)/, function (a, b) { return =
+b.toUpperCase(); });=0A=
+		return eval('in_obj.style.' + in_property);=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		return document.defaultView.getComputedStyle(in_obj, =
+null).getPropertyValue(in_property);=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ makeTrue()=0A=
+=0A=
+function makeTrue()=0A=
+{=0A=
+	return true;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ makeFalse()=0A=
+=0A=
+function makeFalse()=0A=
+{=0A=
+	return false;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+=0A=
+/** $Id: domTT.js 1951 2005-07-17 16:22:34Z dallen $ */=0A=
+// {{{ license=0A=
+=0A=
+/*=0A=
+ * Copyright 2002-2005 Dan Allen, Mojavelinux.com =
+(dan.allen@mojavelinux.com)=0A=
+ *=0A=
+ * Licensed under the Apache License, Version 2.0 (the "License");=0A=
+ * you may not use this file except in compliance with the License.=0A=
+ * You may obtain a copy of the License at=0A=
+ *=0A=
+ *      http://www.apache.org/licenses/LICENSE-2.0=0A=
+ *=0A=
+ * Unless required by applicable law or agreed to in writing, software=0A=
+ * distributed under the License is distributed on an "AS IS" BASIS,=0A=
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or =
+implied.=0A=
+ * See the License for the specific language governing permissions and=0A=
+ * limitations under the License.=0A=
+ */=0A=
+=0A=
+// }}}=0A=
+// {{{ intro=0A=
+=0A=
+/**=0A=
+ * Title: DOM Tooltip Library=0A=
+ * Version: 0.7.1=0A=
+ *=0A=
+ * Summary:=0A=
+ * Allows developers to add custom tooltips to the webpages.  Tooltips =
+are=0A=
+ * generated using the domTT_activate() function and customized by =
+setting=0A=
+ * a handful of options.=0A=
+ *=0A=
+ * Maintainer: Dan Allen <dan.allen@mojavelinux.com>=0A=
+ * Contributors:=0A=
+ * 		Josh Gross <josh@jportalhome.com>=0A=
+ *		Jason Rust <jason@rustyparts.com>=0A=
+ *=0A=
+ * License: Apache 2.0=0A=
+ * However, if you use this library, you earn the position of official =
+bug=0A=
+ * reporter :) Please post questions or problem reports to the newsgroup:=0A=
+ *=0A=
+ *   http://groups-beta.google.com/group/dom-tooltip=0A=
+ *=0A=
+ * If you are doing this for commercial work, perhaps you could send me =
+a few=0A=
+ * Starbucks Coffee gift dollars or PayPal bucks to encourage future=0A=
+ * developement (NOT REQUIRED).  E-mail me for my snail mail address.=0A=
+=0A=
+ *=0A=
+ * Homepage: http://www.mojavelinux.com/projects/domtooltip/=0A=
+ *=0A=
+ * Newsgroup: http://groups-beta.google.com/group/dom-tooltip=0A=
+ *=0A=
+ * Freshmeat Project: http://freshmeat.net/projects/domtt/?topic_id=3D92=0A=
+ *=0A=
+ * Updated: 2005/07/16=0A=
+ *=0A=
+ * Supported Browsers:=0A=
+ * Mozilla (Gecko), IE 5.5+, IE on Mac, Safari, Konqueror, Opera 7=0A=
+ *=0A=
+ * Usage:=0A=
+ * Please see the HOWTO documentation.=0A=
+**/=0A=
+=0A=
+// }}}=0A=
+// {{{ settings (editable)=0A=
+=0A=
+// IE mouse events seem to be off by 2 pixels=0A=
+var domTT_offsetX =3D (domLib_isIE ? -2 : 0);=0A=
+var domTT_offsetY =3D (domLib_isIE ? 4 : 2);=0A=
+var domTT_direction =3D 'southeast';=0A=
+var domTT_mouseHeight =3D domLib_isIE ? 13 : 19;=0A=
+var domTT_closeLink =3D 'X';=0A=
+var domTT_closeAction =3D 'hide';=0A=
+var domTT_activateDelay =3D 500;=0A=
+var domTT_maxWidth =3D false;=0A=
+var domTT_styleClass =3D 'domTT';=0A=
+var domTT_fade =3D 'neither';=0A=
+var domTT_lifetime =3D 0;=0A=
+var domTT_grid =3D 0;=0A=
+var domTT_trailDelay =3D 200;=0A=
+var domTT_useGlobalMousePosition =3D true;=0A=
+var domTT_screenEdgeDetection =3D true;=0A=
+var domTT_screenEdgePadding =3D 4;=0A=
+var domTT_oneOnly =3D false;=0A=
+var domTT_draggable =3D false;=0A=
+if (typeof(domTT_dragEnabled) =3D=3D 'undefined')=0A=
+{=0A=
+	domTT_dragEnabled =3D false;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ globals (DO NOT EDIT)=0A=
+=0A=
+var domTT_predefined =3D new Hash();=0A=
+// tooltips are keyed on both the tip id and the owner id,=0A=
+// since events can originate on either object=0A=
+var domTT_tooltips =3D new Hash();=0A=
+var domTT_lastOpened =3D 0;=0A=
+=0A=
+// }}}=0A=
+// {{{ document.onmousemove=0A=
+=0A=
+if (domLib_useLibrary && domTT_useGlobalMousePosition)=0A=
+{=0A=
+	var domTT_mousePosition =3D new Hash();=0A=
+	document.onmousemove =3D function(in_event)=0A=
+	{=0A=
+		if (typeof(in_event) =3D=3D 'undefined')=0A=
+		{=0A=
+			in_event =3D event;=0A=
+		}=0A=
+=0A=
+		domTT_mousePosition =3D domLib_getEventPosition(in_event);=0A=
+		if (domTT_dragEnabled && domTT_dragMouseDown)=0A=
+		{=0A=
+			domTT_dragUpdate(in_event);=0A=
+		}=0A=
+	};=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_activate()=0A=
+=0A=
+function domTT_activate(in_this, in_event)=0A=
+{=0A=
+	if (!domLib_useLibrary) { return false; }=0A=
+=0A=
+	// make sure in_event is set (for IE, some cases we have to use =
+window.event)=0A=
+	if (typeof(in_event) =3D=3D 'undefined')=0A=
+	{=0A=
+		in_event =3D window.event;=0A=
+	}=0A=
+=0A=
+	var owner =3D document.body;=0A=
+	// we have an active event so get the owner=0A=
+	if (in_event.type.match(/key|mouse|click|contextmenu/i))=0A=
+	{=0A=
+		// make sure we have nothing higher than the body element=0A=
+		if (in_this.nodeType && in_this.nodeType !=3D document.DOCUMENT_NODE)=0A=
+		{=0A=
+			var owner =3D in_this;=0A=
+		}=0A=
+	}=0A=
+	// non active event (make sure we were passed a string id)=0A=
+	else=0A=
+	{=0A=
+		if (typeof(in_this) !=3D 'object' && !(owner =3D =
+domTT_tooltips.get(in_this)))=0A=
+		{=0A=
+			owner =3D document.body.appendChild(document.createElement('div'));=0A=
+			owner.style.display =3D 'none';=0A=
+			owner.id =3D in_this;=0A=
+		}=0A=
+	}=0A=
+=0A=
+	// make sure the owner has a unique id=0A=
+	if (!owner.id)=0A=
+	{=0A=
+		owner.id =3D '__autoId' + domLib_autoId++;=0A=
+	}=0A=
+=0A=
+	// see if we should only be openning one tip at a time=0A=
+	// NOTE: this is not "perfect" yet since it really steps on any other=0A=
+	// tip working on fade out or delayed close, but it get's the job done=0A=
+	if (domTT_oneOnly && domTT_lastOpened)=0A=
+	{=0A=
+		domTT_deactivate(domTT_lastOpened);=0A=
+	}=0A=
+=0A=
+	domTT_lastOpened =3D owner.id;=0A=
+=0A=
+	var tooltip =3D domTT_tooltips.get(owner.id);=0A=
+	if (tooltip)=0A=
+	{=0A=
+		if (tooltip.get('eventType') !=3D in_event.type)=0A=
+		{=0A=
+			if (tooltip.get('type') =3D=3D 'greasy')=0A=
+			{=0A=
+				tooltip.set('closeAction', 'destroy');=0A=
+				domTT_deactivate(owner.id);=0A=
+			}=0A=
+			else if (tooltip.get('status') !=3D 'inactive')=0A=
+			{=0A=
+				return owner.id;=0A=
+			}=0A=
+		}=0A=
+		else=0A=
+		{=0A=
+			if (tooltip.get('status') =3D=3D 'inactive')=0A=
+			{=0A=
+				tooltip.set('status', 'pending');=0A=
+				tooltip.set('activateTimeout', domLib_setTimeout(domTT_runShow, =
+tooltip.get('delay'), [owner.id, in_event]));=0A=
+=0A=
+				return owner.id;=0A=
+			}=0A=
+			// either pending or active, let it be=0A=
+			else=0A=
+			{=0A=
+				return owner.id;=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+=0A=
+	// setup the default options hash=0A=
+	var options =3D new Hash(=0A=
+		'caption',		'',=0A=
+		'content',		'',=0A=
+		'clearMouse',	true,=0A=
+		'closeAction',	domTT_closeAction,=0A=
+		'closeLink',	domTT_closeLink,=0A=
+		'delay',		domTT_activateDelay,=0A=
+		'direction',	domTT_direction,=0A=
+		'draggable',	domTT_draggable,=0A=
+		'fade',			domTT_fade,=0A=
+		'fadeMax',		100,=0A=
+		'grid',			domTT_grid,=0A=
+		'id',			'[domTT]' + owner.id,=0A=
+		'inframe',		false,=0A=
+		'lifetime',		domTT_lifetime,=0A=
+		'offsetX',		domTT_offsetX,=0A=
+		'offsetY',		domTT_offsetY,=0A=
+		'parent',		document.body,=0A=
+		'position',		'absolute',=0A=
+		'styleClass',	domTT_styleClass,=0A=
+		'type',			'greasy',=0A=
+		'trail',		false,=0A=
+		'lazy',			false=0A=
+	);=0A=
+=0A=
+	// load in the options from the function call=0A=
+	for (var i =3D 2; i < arguments.length; i +=3D 2)=0A=
+	{=0A=
+		// load in predefined=0A=
+		if (arguments[i] =3D=3D 'predefined')=0A=
+		{=0A=
+			var predefinedOptions =3D domTT_predefined.get(arguments[i + 1]);=0A=
+			for (var j in predefinedOptions.elementData)=0A=
+			{=0A=
+				options.set(j, predefinedOptions.get(j));=0A=
+			}=0A=
+		}=0A=
+		// set option=0A=
+		else=0A=
+		{=0A=
+			options.set(arguments[i], arguments[i + 1]);=0A=
+		}=0A=
+	}=0A=
+=0A=
+	options.set('eventType', in_event.type);=0A=
+=0A=
+	// immediately set the status text if provided=0A=
+	if (options.has('statusText'))=0A=
+	{=0A=
+		try { window.status =3D options.get('statusText'); } catch(e) {}=0A=
+	}=0A=
+=0A=
+	// if we didn't give content...assume we just wanted to change the =
+status and return=0A=
+	if (!options.has('content') || options.get('content') =3D=3D '' || =
+options.get('content') =3D=3D null)=0A=
+	{=0A=
+		if (typeof(owner.onmouseout) !=3D 'function')=0A=
+		{=0A=
+			owner.onmouseout =3D function(in_event) { domTT_mouseout(this, =
+in_event); };=0A=
+		}=0A=
+=0A=
+		return owner.id;=0A=
+	}=0A=
+=0A=
+	options.set('owner', owner);=0A=
+=0A=
+	domTT_create(options);=0A=
+=0A=
+	// determine the show delay=0A=
+	options.set('delay', =
+in_event.type.match(/click|mousedown|contextmenu/i) ? 0 : =
+parseInt(options.get('delay')));=0A=
+	domTT_tooltips.set(owner.id, options);=0A=
+	domTT_tooltips.set(options.get('id'), options);=0A=
+	options.set('status', 'pending');=0A=
+	options.set('activateTimeout', domLib_setTimeout(domTT_runShow, =
+options.get('delay'), [owner.id, in_event]));=0A=
+=0A=
+	return owner.id;=0A=
+};=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_create()=0A=
+=0A=
+function domTT_create(in_options)=0A=
+{=0A=
+	var tipOwner =3D in_options.get('owner');=0A=
+	var parentObj =3D in_options.get('parent');=0A=
+	var parentDoc =3D parentObj.ownerDocument || parentObj.document;=0A=
+=0A=
+	// create the tooltip and hide it=0A=
+	var tipObj =3D parentObj.appendChild(parentDoc.createElement('div'));=0A=
+	tipObj.style.position =3D 'absolute';=0A=
+	tipObj.style.left =3D '0px';=0A=
+	tipObj.style.top =3D '0px';=0A=
+	tipObj.style.visibility =3D 'hidden';=0A=
+	tipObj.id =3D in_options.get('id');=0A=
+	tipObj.className =3D in_options.get('styleClass');=0A=
+=0A=
+	// content of tip as object=0A=
+	var content;=0A=
+	var tableLayout =3D false;=0A=
+=0A=
+	if (in_options.get('caption') || (in_options.get('type') =3D=3D =
+'sticky' && in_options.get('caption') !=3D=3D false))=0A=
+	{=0A=
+		tableLayout =3D true;=0A=
+		// layout the tip with a hidden formatting table=0A=
+		var tipLayoutTable =3D =
+tipObj.appendChild(parentDoc.createElement('table'));=0A=
+		tipLayoutTable.style.borderCollapse =3D 'collapse';=0A=
+		if (domLib_isKHTML)=0A=
+		{=0A=
+			tipLayoutTable.cellSpacing =3D 0;=0A=
+		}=0A=
+=0A=
+		var tipLayoutTbody =3D =
+tipLayoutTable.appendChild(parentDoc.createElement('tbody'));=0A=
+=0A=
+		var numCaptionCells =3D 0;=0A=
+		var captionRow =3D =
+tipLayoutTbody.appendChild(parentDoc.createElement('tr'));=0A=
+		var captionCell =3D =
+captionRow.appendChild(parentDoc.createElement('td'));=0A=
+		captionCell.style.padding =3D '0px';=0A=
+		var caption =3D =
+captionCell.appendChild(parentDoc.createElement('div'));=0A=
+		caption.className =3D 'caption';=0A=
+		if (domLib_isIE50)=0A=
+		{=0A=
+			caption.style.height =3D '100%';=0A=
+		}=0A=
+=0A=
+		if (in_options.get('caption').nodeType)=0A=
+		{=0A=
+			caption.appendChild(in_options.get('caption').cloneNode(1));=0A=
+		}=0A=
+		else=0A=
+		{=0A=
+			caption.innerHTML =3D in_options.get('caption');=0A=
+		}=0A=
+=0A=
+		if (in_options.get('type') =3D=3D 'sticky')=0A=
+		{=0A=
+			var numCaptionCells =3D 2;=0A=
+			var closeLinkCell =3D =
+captionRow.appendChild(parentDoc.createElement('td'));=0A=
+			closeLinkCell.style.padding =3D '0px';=0A=
+			var closeLink =3D =
+closeLinkCell.appendChild(parentDoc.createElement('div'));=0A=
+			closeLink.className =3D 'caption';=0A=
+			if (domLib_isIE50)=0A=
+			{=0A=
+				closeLink.style.height =3D '100%';=0A=
+			}=0A=
+=0A=
+			closeLink.style.textAlign =3D 'right';=0A=
+			closeLink.style.cursor =3D domLib_stylePointer;=0A=
+			// merge the styles of the two cells=0A=
+			closeLink.style.borderLeftWidth =3D caption.style.borderRightWidth =
+=3D '0px';=0A=
+			closeLink.style.paddingLeft =3D caption.style.paddingRight =3D '0px';=0A=
+			closeLink.style.marginLeft =3D caption.style.marginRight =3D '0px';=0A=
+			if (in_options.get('closeLink').nodeType)=0A=
+			{=0A=
+				closeLink.appendChild(in_options.get('closeLink').cloneNode(1));=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				closeLink.innerHTML =3D in_options.get('closeLink');=0A=
+			}=0A=
+=0A=
+			closeLink.onclick =3D function() { domTT_deactivate(tipOwner.id); };=0A=
+			closeLink.onmousedown =3D function(in_event) { if (typeof(in_event) =
+=3D=3D 'undefined') { in_event =3D event; } in_event.cancelBubble =3D =
+true; };=0A=
+			// MacIE has to have a newline at the end and must be made with =
+createTextNode()=0A=
+			if (domLib_isMacIE)=0A=
+			{=0A=
+				closeLinkCell.appendChild(parentDoc.createTextNode("\n"));=0A=
+			}=0A=
+		}=0A=
+=0A=
+		// MacIE has to have a newline at the end and must be made with =
+createTextNode()=0A=
+		if (domLib_isMacIE)=0A=
+		{=0A=
+			captionCell.appendChild(parentDoc.createTextNode("\n"));=0A=
+		}=0A=
+=0A=
+		var contentRow =3D =
+tipLayoutTbody.appendChild(parentDoc.createElement('tr'));=0A=
+		var contentCell =3D =
+contentRow.appendChild(parentDoc.createElement('td'));=0A=
+		contentCell.style.padding =3D '0px';=0A=
+		if (numCaptionCells)=0A=
+		{=0A=
+			if (domLib_isIE || domLib_isOpera)=0A=
+			{=0A=
+				contentCell.colSpan =3D numCaptionCells;=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				contentCell.setAttribute('colspan', numCaptionCells);=0A=
+			}=0A=
+		}=0A=
+=0A=
+		content =3D contentCell.appendChild(parentDoc.createElement('div'));=0A=
+		if (domLib_isIE50)=0A=
+		{=0A=
+			content.style.height =3D '100%';=0A=
+		}=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		content =3D tipObj.appendChild(parentDoc.createElement('div'));=0A=
+	}=0A=
+=0A=
+	content.className =3D 'contents';=0A=
+=0A=
+	if (in_options.get('content').nodeType)=0A=
+	{=0A=
+		content.appendChild(in_options.get('content').cloneNode(1));=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		content.innerHTML =3D in_options.get('content');=0A=
+	}=0A=
+=0A=
+	// adjust the width if specified=0A=
+	if (in_options.has('width'))=0A=
+	{=0A=
+		tipObj.style.width =3D parseInt(in_options.get('width')) + 'px';=0A=
+	}=0A=
+=0A=
+	// check if we are overridding the maxWidth=0A=
+	// if the browser supports maxWidth, the global setting will be ignored =
+(assume stylesheet)=0A=
+	var maxWidth =3D domTT_maxWidth;=0A=
+	if (in_options.has('maxWidth'))=0A=
+	{=0A=
+		if ((maxWidth =3D in_options.get('maxWidth')) =3D=3D=3D false)=0A=
+		{=0A=
+			tipObj.style.maxWidth =3D domLib_styleNoMaxWidth;=0A=
+		}=0A=
+		else=0A=
+		{=0A=
+			maxWidth =3D parseInt(in_options.get('maxWidth'));=0A=
+			tipObj.style.maxWidth =3D maxWidth + 'px';=0A=
+		}=0A=
+	}=0A=
+=0A=
+	// HACK: fix lack of maxWidth in CSS for KHTML and IE=0A=
+	if (maxWidth !=3D=3D false && (domLib_isIE || domLib_isKHTML) && =
+tipObj.offsetWidth > maxWidth)=0A=
+	{=0A=
+		tipObj.style.width =3D maxWidth + 'px';=0A=
+	}=0A=
+=0A=
+	in_options.set('offsetWidth', tipObj.offsetWidth);=0A=
+	in_options.set('offsetHeight', tipObj.offsetHeight);=0A=
+=0A=
+	// konqueror miscalcuates the width of the containing div when using =
+the layout table based on the=0A=
+	// border size of the containing div=0A=
+	if (domLib_isKonq && tableLayout && !tipObj.style.width)=0A=
+	{=0A=
+		var left =3D document.defaultView.getComputedStyle(tipObj, =
+'').getPropertyValue('border-left-width');=0A=
+		var right =3D document.defaultView.getComputedStyle(tipObj, =
+'').getPropertyValue('border-right-width');=0A=
+		=0A=
+		left =3D left.substring(left.indexOf(':') + 2, left.indexOf(';'));=0A=
+		right =3D right.substring(right.indexOf(':') + 2, right.indexOf(';'));=0A=
+		var correction =3D 2 * ((left ? parseInt(left) : 0) + (right ? =
+parseInt(right) : 0));=0A=
+		tipObj.style.width =3D (tipObj.offsetWidth - correction) + 'px';=0A=
+	}=0A=
+=0A=
+	// if a width is not set on an absolutely positioned object, both IE =
+and Opera=0A=
+	// will attempt to wrap when it spills outside of body...we cannot have =
+that=0A=
+	if (domLib_isIE || domLib_isOpera)=0A=
+	{=0A=
+		if (!tipObj.style.width)=0A=
+		{=0A=
+			// HACK: the correction here is for a border=0A=
+			tipObj.style.width =3D (tipObj.offsetWidth - 2) + 'px';=0A=
+		}=0A=
+=0A=
+		// HACK: the correction here is for a border=0A=
+		tipObj.style.height =3D (tipObj.offsetHeight - 2) + 'px';=0A=
+	}=0A=
+=0A=
+	// store placement offsets from event position=0A=
+	var offsetX, offsetY;=0A=
+=0A=
+	// tooltip floats=0A=
+	if (in_options.get('position') =3D=3D 'absolute' && =
+!(in_options.has('x') && in_options.has('y')))=0A=
+	{=0A=
+		// determine the offset relative to the pointer=0A=
+		switch (in_options.get('direction'))=0A=
+		{=0A=
+			case 'northeast':=0A=
+				offsetX =3D in_options.get('offsetX');=0A=
+				offsetY =3D 0 - tipObj.offsetHeight - in_options.get('offsetY');=0A=
+			break;=0A=
+			case 'northwest':=0A=
+				offsetX =3D 0 - tipObj.offsetWidth - in_options.get('offsetX');=0A=
+				offsetY =3D 0 - tipObj.offsetHeight - in_options.get('offsetY');=0A=
+			break;=0A=
+			case 'north':=0A=
+				offsetX =3D 0 - parseInt(tipObj.offsetWidth/2);=0A=
+				offsetY =3D 0 - tipObj.offsetHeight - in_options.get('offsetY');=0A=
+			break;=0A=
+			case 'southwest':=0A=
+				offsetX =3D 0 - tipObj.offsetWidth - in_options.get('offsetX');=0A=
+				offsetY =3D in_options.get('offsetY');=0A=
+			break;=0A=
+			case 'southeast':=0A=
+				offsetX =3D in_options.get('offsetX');=0A=
+				offsetY =3D in_options.get('offsetY');=0A=
+			break;=0A=
+			case 'south':=0A=
+				offsetX =3D 0 - parseInt(tipObj.offsetWidth/2);=0A=
+				offsetY =3D in_options.get('offsetY');=0A=
+			break;=0A=
+		}=0A=
+=0A=
+		// if we are in an iframe, get the offsets of the iframe in the parent =
+document=0A=
+		if (in_options.get('inframe'))=0A=
+		{=0A=
+			var iframeObj =3D domLib_getIFrameReference(window);=0A=
+			if (iframeObj)=0A=
+			{=0A=
+				var frameOffsets =3D domLib_getOffsets(iframeObj);=0A=
+				offsetX +=3D frameOffsets.get('left');=0A=
+				offsetY +=3D frameOffsets.get('top');=0A=
+			}=0A=
+		}=0A=
+	}=0A=
+	// tooltip is fixed=0A=
+	else=0A=
+	{=0A=
+		offsetX =3D 0;=0A=
+		offsetY =3D 0;=0A=
+		in_options.set('trail', false);=0A=
+	}=0A=
+=0A=
+	// set the direction-specific offsetX/Y=0A=
+	in_options.set('offsetX', offsetX);=0A=
+	in_options.set('offsetY', offsetY);=0A=
+	if (in_options.get('clearMouse') && =
+in_options.get('direction').indexOf('south') !=3D -1)=0A=
+	{=0A=
+		in_options.set('mouseOffset', domTT_mouseHeight);=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		in_options.set('mouseOffset', 0);=0A=
+	}=0A=
+=0A=
+	if (domLib_canFade && typeof(Fadomatic) =3D=3D 'function')=0A=
+	{=0A=
+		if (in_options.get('fade') !=3D 'neither')=0A=
+		{=0A=
+			var fadeHandler =3D new Fadomatic(tipObj, 10, 0, 0, =
+in_options.get('fadeMax'));=0A=
+			in_options.set('fadeHandler', fadeHandler);=0A=
+		}=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		in_options.set('fade', 'neither');=0A=
+	}=0A=
+=0A=
+	// setup mouse events=0A=
+	if (in_options.get('trail') && typeof(tipOwner.onmousemove) !=3D =
+'function')=0A=
+	{=0A=
+		tipOwner.onmousemove =3D function(in_event) { domTT_mousemove(this, =
+in_event); };=0A=
+	}=0A=
+=0A=
+	if (typeof(tipOwner.onmouseout) !=3D 'function')=0A=
+	{=0A=
+		tipOwner.onmouseout =3D function(in_event) { domTT_mouseout(this, =
+in_event); };=0A=
+	}=0A=
+=0A=
+	if (in_options.get('type') =3D=3D 'sticky')=0A=
+	{=0A=
+		if (in_options.get('position') =3D=3D 'absolute' && domTT_dragEnabled =
+&& in_options.get('draggable'))=0A=
+		{=0A=
+			if (domLib_isIE)=0A=
+			{=0A=
+				captionRow.onselectstart =3D function() { return false; };=0A=
+			}=0A=
+=0A=
+			// setup drag=0A=
+			captionRow.onmousedown =3D function(in_event) { =
+domTT_dragStart(tipObj, in_event);  };=0A=
+			captionRow.onmousemove =3D function(in_event) { =
+domTT_dragUpdate(in_event); };=0A=
+			captionRow.onmouseup =3D function() { domTT_dragStop(); };=0A=
+		}=0A=
+	}=0A=
+	else if (in_options.get('type') =3D=3D 'velcro')=0A=
+	{=0A=
+		tipObj.onmouseout =3D function(in_event) { if (typeof(in_event) =3D=3D =
+'undefined') { in_event =3D event; } if =
+(!domLib_isDescendantOf(in_event[domLib_eventTo], tipObj)) { =
+domTT_deactivate(tipOwner.id); }};=0A=
+	}=0A=
+=0A=
+	if (in_options.get('position') =3D=3D 'relative')=0A=
+	{=0A=
+		tipObj.style.position =3D 'relative';=0A=
+	}=0A=
+=0A=
+	in_options.set('node', tipObj);=0A=
+	in_options.set('status', 'inactive');=0A=
+};=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_show()=0A=
+=0A=
+// in_id is either tip id or the owner id=0A=
+function domTT_show(in_id, in_event)=0A=
+{=0A=
+	// should always find one since this call would be cancelled if tip was =
+killed=0A=
+	var tooltip =3D domTT_tooltips.get(in_id);=0A=
+	var status =3D tooltip.get('status');=0A=
+	var tipObj =3D tooltip.get('node');=0A=
+=0A=
+	if (tooltip.get('position') =3D=3D 'absolute')=0A=
+	{=0A=
+		var mouseX, mouseY;=0A=
+=0A=
+		if (tooltip.has('x') && tooltip.has('y'))=0A=
+		{=0A=
+			mouseX =3D tooltip.get('x');=0A=
+			mouseY =3D tooltip.get('y');=0A=
+		}=0A=
+		else if (!domTT_useGlobalMousePosition || status =3D=3D 'active' || =
+tooltip.get('delay') =3D=3D 0)=0A=
+		{=0A=
+			var eventPosition =3D domLib_getEventPosition(in_event);=0A=
+			var eventX =3D eventPosition.get('x');=0A=
+			var eventY =3D eventPosition.get('y');=0A=
+			if (tooltip.get('inframe'))=0A=
+			{=0A=
+				eventX -=3D eventPosition.get('scrollX');=0A=
+				eventY -=3D eventPosition.get('scrollY');=0A=
+			}=0A=
+=0A=
+			// only move tip along requested trail axis when updating position=0A=
+			if (status =3D=3D 'active' && tooltip.get('trail') !=3D=3D true)=0A=
+			{=0A=
+				var trail =3D tooltip.get('trail');=0A=
+				if (trail =3D=3D 'x')=0A=
+				{=0A=
+					mouseX =3D eventX;=0A=
+					mouseY =3D tooltip.get('mouseY');=0A=
+				}=0A=
+				else if (trail =3D=3D 'y')=0A=
+				{=0A=
+					mouseX =3D tooltip.get('mouseX');=0A=
+					mouseY =3D eventY;=0A=
+				}=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				mouseX =3D eventX;=0A=
+				mouseY =3D eventY;=0A=
+			}=0A=
+		}=0A=
+		else=0A=
+		{=0A=
+			mouseX =3D domTT_mousePosition.get('x');=0A=
+			mouseY =3D domTT_mousePosition.get('y');=0A=
+			if (tooltip.get('inframe'))=0A=
+			{=0A=
+				mouseX -=3D domTT_mousePosition.get('scrollX');=0A=
+				mouseY -=3D domTT_mousePosition.get('scrollY');=0A=
+			}=0A=
+		}=0A=
+=0A=
+		// we are using a grid for updates=0A=
+		if (tooltip.get('grid'))=0A=
+		{=0A=
+			// if this is not a mousemove event or it is a mousemove event on an =
+active tip and=0A=
+			// the movement is bigger than the grid=0A=
+			if (in_event.type !=3D 'mousemove' || (status =3D=3D 'active' && =
+(Math.abs(tooltip.get('lastX') - mouseX) > tooltip.get('grid') || =
+Math.abs(tooltip.get('lastY') - mouseY) > tooltip.get('grid'))))=0A=
+			{=0A=
+				tooltip.set('lastX', mouseX);=0A=
+				tooltip.set('lastY', mouseY);=0A=
+			}=0A=
+			// did not satisfy the grid movement requirement=0A=
+			else=0A=
+			{=0A=
+				return false;=0A=
+			}=0A=
+		}=0A=
+=0A=
+		// mouseX and mouseY store the last acknowleged mouse position,=0A=
+		// good for trailing on one axis=0A=
+		tooltip.set('mouseX', mouseX);=0A=
+		tooltip.set('mouseY', mouseY);=0A=
+=0A=
+		var coordinates;=0A=
+		if (domTT_screenEdgeDetection)=0A=
+		{=0A=
+			coordinates =3D domTT_correctEdgeBleed(=0A=
+				tooltip.get('offsetWidth'),=0A=
+				tooltip.get('offsetHeight'),=0A=
+				mouseX,=0A=
+				mouseY,=0A=
+				tooltip.get('offsetX'),=0A=
+				tooltip.get('offsetY'),=0A=
+				tooltip.get('mouseOffset'),=0A=
+				tooltip.get('inframe') ? window.parent : window=0A=
+			);=0A=
+		}=0A=
+		else=0A=
+		{=0A=
+			coordinates =3D {=0A=
+				'x' : mouseX + tooltip.get('offsetX'),=0A=
+				'y' : mouseY + tooltip.get('offsetY') + tooltip.get('mouseOffset')=0A=
+			};=0A=
+		}=0A=
+=0A=
+		// update the position=0A=
+		tipObj.style.left =3D coordinates.x + 'px';=0A=
+		tipObj.style.top =3D coordinates.y + 'px';=0A=
+=0A=
+		// increase the tip zIndex so it goes over previously shown tips=0A=
+		tipObj.style.zIndex =3D domLib_zIndex++;=0A=
+	}=0A=
+=0A=
+	// if tip is not active, active it now and check for a fade in=0A=
+	if (status =3D=3D 'pending')=0A=
+	{=0A=
+		// unhide the tooltip=0A=
+		tooltip.set('status', 'active');=0A=
+		tipObj.style.display =3D '';=0A=
+		tipObj.style.visibility =3D 'visible';=0A=
+=0A=
+		var fade =3D tooltip.get('fade');=0A=
+		if (fade !=3D 'neither')=0A=
+		{=0A=
+			var fadeHandler =3D tooltip.get('fadeHandler');=0A=
+			if (fade =3D=3D 'out' || fade =3D=3D 'both')=0A=
+			{=0A=
+				fadeHandler.haltFade();=0A=
+				if (fade =3D=3D 'out')=0A=
+				{=0A=
+					fadeHandler.halt();=0A=
+				}=0A=
+			}=0A=
+=0A=
+			if (fade =3D=3D 'in' || fade =3D=3D 'both')=0A=
+			{=0A=
+				fadeHandler.fadeIn();=0A=
+			}=0A=
+		}=0A=
+=0A=
+		if (tooltip.get('type') =3D=3D 'greasy' && tooltip.get('lifetime') =
+!=3D 0)=0A=
+		{=0A=
+			tooltip.set('lifetimeTimeout', domLib_setTimeout(domTT_runDeactivate, =
+tooltip.get('lifetime'), [tipObj.id]));=0A=
+		}=0A=
+	}=0A=
+=0A=
+	if (tooltip.get('position') =3D=3D 'absolute')=0A=
+	{=0A=
+		domLib_detectCollisions(tipObj);=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_close()=0A=
+=0A=
+// in_handle can either be an child object of the tip, the tip id or the =
+owner id=0A=
+function domTT_close(in_handle)=0A=
+{=0A=
+	var id;=0A=
+	if (typeof(in_handle) =3D=3D 'object' && in_handle.nodeType)=0A=
+	{=0A=
+		var obj =3D in_handle;=0A=
+		while (!obj.id || !domTT_tooltips.get(obj.id))=0A=
+		{=0A=
+			obj =3D obj.parentNode;=0A=
+	=0A=
+			if (obj.nodeType !=3D document.ELEMENT_NODE) { return; }=0A=
+		}=0A=
+=0A=
+		id =3D obj.id;=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		id =3D in_handle;=0A=
+	}=0A=
+=0A=
+	domTT_deactivate(id);=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_deactivate()=0A=
+=0A=
+// in_id is either the tip id or the owner id=0A=
+function domTT_deactivate(in_id)=0A=
+{=0A=
+	var tooltip =3D domTT_tooltips.get(in_id);=0A=
+	if (tooltip)=0A=
+	{=0A=
+		var status =3D tooltip.get('status');=0A=
+		if (status =3D=3D 'pending')=0A=
+		{=0A=
+			// cancel the creation of this tip if it is still pending=0A=
+			domLib_clearTimeout(tooltip.get('activateTimeout'));=0A=
+			tooltip.set('status', 'inactive');=0A=
+		}=0A=
+		else if (status =3D=3D 'active')=0A=
+		{=0A=
+			if (tooltip.get('lifetime'))=0A=
+			{=0A=
+				domLib_clearTimeout(tooltip.get('lifetimeTimeout'));=0A=
+			}=0A=
+=0A=
+			var tipObj =3D tooltip.get('node');=0A=
+			if (tooltip.get('closeAction') =3D=3D 'hide')=0A=
+			{=0A=
+				var fade =3D tooltip.get('fade');=0A=
+				if (fade !=3D 'neither')=0A=
+				{=0A=
+					var fadeHandler =3D tooltip.get('fadeHandler');=0A=
+					if (fade =3D=3D 'out' || fade =3D=3D 'both')=0A=
+					{=0A=
+						fadeHandler.fadeOut();=0A=
+					}=0A=
+					else=0A=
+					{=0A=
+						fadeHandler.hide();=0A=
+					}=0A=
+				}=0A=
+				else=0A=
+				{=0A=
+					tipObj.style.display =3D 'none';=0A=
+				}=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				tooltip.get('parent').removeChild(tipObj);=0A=
+				domTT_tooltips.remove(tooltip.get('owner').id);=0A=
+				domTT_tooltips.remove(tooltip.get('id'));=0A=
+			}=0A=
+=0A=
+			tooltip.set('status', 'inactive');=0A=
+			// unhide all of the selects that are owned by this object=0A=
+			domLib_detectCollisions(tipObj, true); =0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_mouseout()=0A=
+=0A=
+function domTT_mouseout(in_owner, in_event)=0A=
+{=0A=
+	if (!domLib_useLibrary) { return false; }=0A=
+=0A=
+	if (typeof(in_event) =3D=3D 'undefined')=0A=
+	{=0A=
+		in_event =3D event;=0A=
+	}=0A=
+=0A=
+	var toChild =3D domLib_isDescendantOf(in_event[domLib_eventTo], =
+in_owner);=0A=
+	var tooltip =3D domTT_tooltips.get(in_owner.id);=0A=
+	if (tooltip && (tooltip.get('type') =3D=3D 'greasy' || =
+tooltip.get('status') !=3D 'active'))=0A=
+	{=0A=
+		// deactivate tip if exists and we moved away from the owner=0A=
+		if (!toChild)=0A=
+		{=0A=
+			domTT_deactivate(in_owner.id);=0A=
+			try { window.status =3D window.defaultStatus; } catch(e) {}=0A=
+		}=0A=
+	}=0A=
+	else if (!toChild)=0A=
+	{=0A=
+		try { window.status =3D window.defaultStatus; } catch(e) {}=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_mousemove()=0A=
+=0A=
+function domTT_mousemove(in_owner, in_event)=0A=
+{=0A=
+	if (!domLib_useLibrary) { return false; }=0A=
+=0A=
+	if (typeof(in_event) =3D=3D 'undefined')=0A=
+	{=0A=
+		in_event =3D event;=0A=
+	}=0A=
+=0A=
+	var tooltip =3D domTT_tooltips.get(in_owner.id);=0A=
+	if (tooltip && tooltip.get('trail') && tooltip.get('status') =3D=3D =
+'active')=0A=
+	{=0A=
+		// see if we are trailing lazy=0A=
+		if (tooltip.get('lazy'))=0A=
+		{=0A=
+			domLib_setTimeout(domTT_runShow, domTT_trailDelay, [in_owner.id, =
+in_event]);=0A=
+		}=0A=
+		else=0A=
+		{=0A=
+			domTT_show(in_owner.id, in_event);=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_addPredefined()=0A=
+=0A=
+function domTT_addPredefined(in_id)=0A=
+{=0A=
+	var options =3D new Hash();=0A=
+	for (var i =3D 1; i < arguments.length; i +=3D 2)=0A=
+	{=0A=
+		options.set(arguments[i], arguments[i + 1]);=0A=
+	}=0A=
+=0A=
+	domTT_predefined.set(in_id, options);=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_correctEdgeBleed()=0A=
+=0A=
+function domTT_correctEdgeBleed(in_width, in_height, in_x, in_y, =
+in_offsetX, in_offsetY, in_mouseOffset, in_window)=0A=
+{=0A=
+	var win, doc;=0A=
+	var bleedRight, bleedBottom;=0A=
+	var pageHeight, pageWidth, pageYOffset, pageXOffset;=0A=
+=0A=
+	var x =3D in_x + in_offsetX;=0A=
+	var y =3D in_y + in_offsetY + in_mouseOffset;=0A=
+=0A=
+	win =3D (typeof(in_window) =3D=3D 'undefined' ? window : in_window);=0A=
+=0A=
+	// Gecko and IE swaps values of clientHeight, clientWidth properties =
+when=0A=
+	// in standards compliance mode from documentElement to document.body=0A=
+	doc =3D ((domLib_standardsMode && (domLib_isIE || domLib_isGecko)) ? =
+win.document.documentElement : win.document.body);=0A=
+=0A=
+	// for IE in compliance mode=0A=
+	if (domLib_isIE)=0A=
+	{=0A=
+		pageHeight =3D doc.clientHeight;=0A=
+		pageWidth =3D doc.clientWidth;=0A=
+		pageYOffset =3D doc.scrollTop;=0A=
+		pageXOffset =3D doc.scrollLeft;=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		pageHeight =3D doc.clientHeight;=0A=
+		pageWidth =3D doc.clientWidth;=0A=
+=0A=
+		if (domLib_isKHTML)=0A=
+		{=0A=
+			pageHeight =3D win.innerHeight;=0A=
+		}=0A=
+=0A=
+		pageYOffset =3D win.pageYOffset;=0A=
+		pageXOffset =3D win.pageXOffset;=0A=
+	}=0A=
+=0A=
+	// we are bleeding off the right, move tip over to stay on page=0A=
+	// logic: take x position, add width and subtract from effective page =
+width=0A=
+	if ((bleedRight =3D (x - pageXOffset) + in_width - (pageWidth - =
+domTT_screenEdgePadding)) > 0)=0A=
+	{=0A=
+		x -=3D bleedRight;=0A=
+	}=0A=
+=0A=
+	// we are bleeding to the left, move tip over to stay on page=0A=
+	// if tip doesn't fit, we will go back to bleeding off the right=0A=
+	// logic: take x position and check if less than edge padding=0A=
+	if ((x - pageXOffset) < domTT_screenEdgePadding)=0A=
+	{=0A=
+		x =3D domTT_screenEdgePadding + pageXOffset;=0A=
+	}=0A=
+=0A=
+	// if we are bleeding off the bottom, flip to north=0A=
+	// logic: take y position, add height and subtract from effective page =
+height=0A=
+	if ((bleedBottom =3D (y - pageYOffset) + in_height - (pageHeight - =
+domTT_screenEdgePadding)) > 0)=0A=
+	{=0A=
+		y =3D in_y - in_height - in_offsetY;=0A=
+	}=0A=
+=0A=
+	// if we are bleeding off the top, flip to south=0A=
+	// if tip doesn't fit, we will go back to bleeding off the bottom=0A=
+	// logic: take y position and check if less than edge padding=0A=
+	if ((y - pageYOffset) < domTT_screenEdgePadding)=0A=
+	{=0A=
+		y =3D in_y + domTT_mouseHeight + in_offsetY;=0A=
+	}=0A=
+=0A=
+	return {'x' : x, 'y' : y};=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_isActive()=0A=
+=0A=
+// in_id is either the tip id or the owner id=0A=
+function domTT_isActive(in_id)=0A=
+{=0A=
+	var tooltip =3D domTT_tooltips.get(in_id);=0A=
+	if (!tooltip || tooltip.get('status') !=3D 'active')=0A=
+	{=0A=
+		return false;=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		return true;=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_runXXX()=0A=
+=0A=
+// All of these domMenu_runXXX() methods are used by the event handling =
+sections to=0A=
+// avoid the circular memory leaks caused by inner functions=0A=
+function domTT_runDeactivate(args) { domTT_deactivate(args[0]); }=0A=
+function domTT_runShow(args) { domTT_show(args[0], args[1]); }=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_replaceTitles()=0A=
+=0A=
+function domTT_replaceTitles(in_decorator)=0A=
+{=0A=
+	var elements =3D domLib_getElementsByClass('tooltip');=0A=
+	for (var i =3D 0; i < elements.length; i++)=0A=
+	{=0A=
+		if (elements[i].title)=0A=
+		{=0A=
+			var content;=0A=
+			if (typeof(in_decorator) =3D=3D 'function')=0A=
+			{=0A=
+				content =3D in_decorator(elements[i]);=0A=
+			}=0A=
+			else=0A=
+			{=0A=
+				content =3D elements[i].title;=0A=
+			}=0A=
+=0A=
+			content =3D content.replace(new RegExp('\'', 'g'), '\\\'');=0A=
+			elements[i].onmouseover =3D new Function('in_event', =
+"domTT_activate(this, in_event, 'content', '" + content + "')");=0A=
+			elements[i].title =3D '';=0A=
+		}=0A=
+	}=0A=
+}=0A=
+=0A=
+// }}}=0A=
+// {{{ domTT_update()=0A=
+=0A=
+// Allow authors to update the contents of existing tips using the DOM=0A=
+function domTT_update(handle, content, type)=0A=
+{=0A=
+	// type defaults to 'content', can also be 'caption'=0A=
+	if (typeof(type) =3D=3D 'undefined')=0A=
+	{=0A=
+		type =3D 'content';=0A=
+	}=0A=
+=0A=
+	var tip =3D domTT_tooltips.get(handle);=0A=
+	if (!tip)=0A=
+	{=0A=
+		return;=0A=
+	}=0A=
+=0A=
+	var tipObj =3D tip.get('node');=0A=
+	var updateNode;=0A=
+	if (type =3D=3D 'content')=0A=
+	{=0A=
+		// <div class=3D"contents">...=0A=
+		updateNode =3D tipObj.firstChild;=0A=
+		if (updateNode.className !=3D 'contents')=0A=
+		{=0A=
+			// <table><tbody><tr>...</tr><tr><td><div class=3D"contents">...=0A=
+			updateNode =3D =
+updateNode.firstChild.firstChild.nextSibling.firstChild.firstChild;=0A=
+		}=0A=
+	}=0A=
+	else=0A=
+	{=0A=
+		updateNode =3D tipObj.firstChild;=0A=
+		if (updateNode.className =3D=3D 'contents')=0A=
+		{=0A=
+			// missing caption=0A=
+			return;=0A=
+		}=0A=
+=0A=
+		// <table><tbody><tr><td><div class=3D"caption">...=0A=
+		updateNode =3D updateNode.firstChild.firstChild.firstChild.firstChild;=0A=
+	}=0A=
+=0A=
+	// TODO: allow for a DOM node as content=0A=
+	updateNode.innerHTML =3D content;=0A=
+}=0A=
+=0A=
+// }}}=0A=
+=0A=
+addInitEvent(function(){ =
+ajax_qsearch.init('qsearch__in','qsearch__out'); =
+});addInitEvent(function(){ addEvent(document,'click',closePopups); =
+});addInitEvent(function(){ addTocToggle(); });addInitEvent(function(){ =
+scrollToMarker(); });if (document.addEventListener) {    =
+document.addEventListener("DOMContentLoaded", window.fireoninit, =
+null);}addEvent(window,"load",window.fireoninit);
+------=_NextPart_000_0000_01C95EDA.4FFCF870--
